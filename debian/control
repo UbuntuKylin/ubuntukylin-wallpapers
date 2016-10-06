@@ -6,7 +6,7 @@ Uploaders: Aron Xu <happyaron@ubuntu.com>
 Build-Depends: debhelper (>= 9),
                python (>= 2.6.6-3~),
 Build-Depends-Indep: python-distutils-extra
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 Vcs-Bzr: lp:~ubuntukylin-members/ubuntukylin/ubuntukylin-wallpapers
 Vcs-Browser: https://bazaar.launchpad.net/~ubuntukylin-members/ubuntukylin/ubuntukylin-wallpapers/files
 
@@ -14,10 +14,17 @@ Package: ubuntukylin-wallpapers
 Architecture: all
 Section: metapackages
 Depends: ${misc:Depends},
-         ubuntukylin-wallpapers-xenial,
+         ubuntukylin-wallpapers-yakkety,
 Description: Ubuntu Kylin Wallpapers
  The default Ubuntu Kylin wallpaper. This is also a metapackage depending on
  the other default wallpapers for the current Ubuntu Kylin release.
+
+Package: ubuntukylin-wallpapers-yakkety
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu Kylin 16.10 Wallpapers
+ Outstanding wallpapers selected from Ubuntu Kylin 16.04 Wallpaper Contest. 
+ These wallpapers are expected to show wonderful Chinese style.
 
 Package: ubuntukylin-wallpapers-xenial
 Architecture: all

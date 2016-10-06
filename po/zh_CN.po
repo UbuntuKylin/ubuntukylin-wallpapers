@@ -535,3 +535,76 @@ msgstr "塞北风情"
 #: ../xenial-ubuntukylin-wallpapers.xml.in.h:16
 msgid "Harvest Time"
 msgstr "丰收"
+
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:1
+msgid "Blooming Sunflower"
+msgstr "花色"
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:2
+msgid "Celebration of New Year.jpg"
+msgstr "闹新春"
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Charm of the Sea.jpg"
+msgstr "海之韵"
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Crystal.jpg"
+msgstr "水晶"
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Elegant.jpg"
+msgstr "淡雅"
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:6
+msgid "Flying Sparrow.jpg"
+msgstr "飞雀"
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Fragrance.jpg"
+msgstr "芬芳"
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Gift.jpg"
+msgstr "礼物"
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Kylin.jpg"
+msgstr "麒麟"
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:10
+msgid "Kylin Running.jpg"
+msgstr "奔跑吧麒麟"
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Lotus Reflection.jpg"
+msgstr "荷影"
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Melody.jpg"
+msgstr "旋律"
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Morning on the Sea.jpg"
+msgstr "海之晨"
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:14
+msgid "New Town By the Shore.jpg"
+msgstr "滨海新城"
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:15
+msgid "Red Leaves.jpg"
+msgstr "红叶"
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:16
+msgid "Spring.jpg"
+msgstr "灵动春色"
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:17
+msgid "Summer In the North.jpg"
+msgstr "北国之夏"
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:18
+msgid "warty final ubuntukylin.jpg"
+msgstr "默认"

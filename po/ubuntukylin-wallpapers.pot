@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-29 17:41+0800\n"
+"POT-Creation-Date: 2016-10-06 15:54+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -535,4 +535,76 @@ msgstr ""
 
 #: ../xenial-ubuntukylin-wallpapers.xml.in.h:16
 msgid "Harvest Time"
+msgstr ""
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:1
+msgid "Blooming Sunflower"
+msgstr ""
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:2
+msgid "Celebration of New Year.jpg"
+msgstr ""
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Charm of the Sea.jpg"
+msgstr ""
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Crystal.jpg"
+msgstr ""
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Elegant.jpg"
+msgstr ""
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:6
+msgid "Flying Sparrow.jpg"
+msgstr ""
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Fragrance.jpg"
+msgstr ""
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Gift.jpg"
+msgstr ""
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Kylin.jpg"
+msgstr ""
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:10
+msgid "Kylin Running.jpg"
+msgstr ""
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Lotus Reflection.jpg"
+msgstr ""
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Melody.jpg"
+msgstr ""
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Morning on the Sea.jpg"
+msgstr ""
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:14
+msgid "New Town By the Shore.jpg"
+msgstr ""
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:15
+msgid "Red Leaves.jpg"
+msgstr ""
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:16
+msgid "Spring.jpg"
+msgstr ""
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:17
+msgid "Summer In the North.jpg"
+msgstr ""
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:18
+msgid "warty final ubuntukylin.jpg"
 msgstr ""
