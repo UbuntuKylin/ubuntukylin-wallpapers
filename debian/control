@@ -1,0 +1,62 @@
+Source: ubuntukylin-wallpapers
+Section: x11
+Priority: optional
+Maintainer: Ubuntu Kylin Team <ubuntukylin-members@list.launchpad.net>
+Uploaders: Aron Xu <happyaron@ubuntu.com>
+Build-Depends: debhelper (>= 9),
+               python (>= 2.6.6-3~),
+Build-Depends-Indep: python-distutils-extra
+Standards-Version: 3.9.6
+Vcs-Bzr: lp:~ubuntukylin-members/ubuntukylin/ubuntukylin-wallpapers
+Vcs-Browser: https://bazaar.launchpad.net/~ubuntukylin-members/ubuntukylin/ubuntukylin-wallpapers/files
+
+Package: ubuntukylin-wallpapers
+Architecture: all
+Section: metapackages
+Depends: ${misc:Depends},
+         ubuntukylin-wallpapers-xenial,
+Description: Ubuntu Kylin Wallpapers
+ The default Ubuntu Kylin wallpaper. This is also a metapackage depending on
+ the other default wallpapers for the current Ubuntu Kylin release.
+
+Package: ubuntukylin-wallpapers-xenial
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu Kylin 16.04 Wallpapers
+ Outstanding wallpapers selected from Ubuntu Kylin 16.04 Wallpaper Contest. 
+ These wallpapers are expected to show wonderful Chinese style.
+
+Package: ubuntukylin-wallpapers-wily
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu Kylin 15.10 Wallpapers
+ Outstanding wallpapers selected from Ubuntu Kylin 15.10 Wallpaper Contest. 
+ These wallpapers are expected to show wonderful Chinese style.
+
+Package: ubuntukylin-wallpapers-vivid
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu Kylin 15.04 Wallpapers
+ Outstanding wallpapers selected from Ubuntu Kylin 15.04 Wallpaper Contest. 
+ These wallpapers are expected to show wonderful Chinese style.
+
+Package: ubuntukylin-wallpapers-utopic
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu Kylin 14.10 Wallpapers
+ Outstanding wallpapers selected from Ubuntu Kylin 14.10 Wallpaper Contest. 
+ These wallpapers are expected to show wonderful Chinese style.
+
+Package: ubuntukylin-wallpapers-trusty
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu Kylin 14.04 Wallpapers
+ Outstanding wallpapers selected from Ubuntu Kylin 14.04 Wallpaper Contest. 
+ These wallpapers are expected to show wonderful Chinese style.
+
+Package: ubuntukylin-wallpapers-saucy
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu Kylin 13.10 Wallpapers
+ Outstanding wallpapers selected from Ubuntu Kylin 13.10 Wallpaper Contest. 
+ These wallpapers are expected to show wonderful Chinese style.

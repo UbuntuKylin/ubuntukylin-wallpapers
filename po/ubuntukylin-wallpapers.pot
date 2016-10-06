@@ -1,0 +1,538 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-29 17:41+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../ubuntukylin-wallpapers.xml.in.h:1
+msgid "Ubuntu Kylin"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:1
+msgid "Bird and Wall"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:2
+msgid "Chinese Pavilion"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Heaven Temple"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Ornamental Columns"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Butterfiles and flowers"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:6
+msgid "Colorful beach"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Falling leaves"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Guide to escape from earth"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Hemu village"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:10
+msgid "Illusion wind"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Landscape of Guilin"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Livingness"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Lotus"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:14
+msgid "Lugu fishing boat"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:15
+msgid "Mist mountatins"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:16
+msgid "Panda"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:17
+msgid "Sapphire"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:18
+msgid "Sea of clouds"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:19
+msgid "Terrace land"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:20
+msgid "Ubuntu and Kylin (black)"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:21
+msgid "Applications in riotous profusion - Ubuntu Kylin"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:22
+msgid "Rain drops on glass - Ubuntu Kylin"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:23
+msgid "Sparkling waves Blue - Ubuntu Kylin"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:24
+msgid "Sparkling waves Orange - Ubuntu Kylin"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:25
+msgid "Sparkling waves Pink - Ubuntu Kylin"
+msgstr ""
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:26
+msgid "Ubuntu Kylin Impression"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:1
+msgid "After Rain"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:2
+msgid "A Grass"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Autumn"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Dragonfly"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Dream Hippocampus"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:6
+msgid "Dream of Blue"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Fall Forest"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Flower Lake"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Fresh Flower"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:10
+msgid "Gaohai Lake"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Grassland"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Green Lake"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Kingfisher"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:14
+msgid "Kylin Bubbles"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:15
+msgid "Kylin Flat"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:16
+msgid "Nearshore Waves"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:17
+msgid "New Life"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:18
+msgid "Stone Forest"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:19
+msgid "Summer Field"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:20
+msgid "Summer Palace"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:21
+msgid "Sun Beach"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:22
+msgid "Tower"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:23
+msgid "Vault of Heaven"
+msgstr ""
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:24
+msgid "Wetland"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:1
+msgid "Autumn Dusk"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:2
+msgid "Crystal Ball"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Gardener of Nature"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Hello World!"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:5
+msgid "I Roam, I Enjoy"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:6
+msgid "Metal Rhombus"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Midnight Raster"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Morning Tune"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Myself"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:10
+msgid "Northern River South"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Radiant Sparkles"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Rising Sun"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Rule of Attraction"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:14
+msgid "Sky and Sands"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:15
+msgid "Small Flowers"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:16
+msgid "Sound of Blooming"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:17
+msgid "Starry Night"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:18
+msgid "Sunrise at Sea"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:19
+msgid "The Chameleon"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:20
+msgid "The Dandelion"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:21
+msgid "The Rose"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:22
+msgid "Undermeaning"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:23
+msgid "Warmth and Sands"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:24
+msgid "Where Paths Meet"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:25
+msgid "Blue Ray"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:26
+msgid "Green Kylin"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:27
+msgid "Ordinary Road"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:28
+msgid "Road of the Desert"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:29
+msgid "Secret Fragrance"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:30
+msgid "Small Stones"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:31
+msgid "The Rising Sun"
+msgstr ""
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:32
+msgid "Travel of a Click"
+msgstr ""
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:1
+msgid "Mynah Bird"
+msgstr ""
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:2
+msgid "Bright Clouds in the South"
+msgstr ""
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Wholehearted"
+msgstr ""
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Prince Hillside, Wudang"
+msgstr ""
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Erhai"
+msgstr ""
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:6
+msgid "A Doll's House"
+msgstr ""
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Midsummer Flower"
+msgstr ""
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Half Green, Half Sands"
+msgstr ""
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Old Street"
+msgstr ""
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:10
+msgid "The Snow Crested"
+msgstr ""
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Resurrection"
+msgstr ""
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Ubuntu Kylin Blue"
+msgstr ""
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Corner of Shangri-La"
+msgstr ""
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:1
+msgid "Blooming"
+msgstr ""
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:2
+msgid "Blue Sea and Blue Sky"
+msgstr ""
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Ends of the Earth"
+msgstr ""
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Folks Next to the Sea"
+msgstr ""
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Glare"
+msgstr ""
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:6
+msgid "Ice World"
+msgstr ""
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Kitty"
+msgstr ""
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Night in Town"
+msgstr ""
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Pink Rose"
+msgstr ""
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:10
+msgid "Prairie after Rain"
+msgstr ""
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Saibei Style"
+msgstr ""
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Ubuntu Kylin Orange"
+msgstr ""
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Startrek"
+msgstr ""
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:14
+msgid "Dan Gap"
+msgstr ""
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:15
+msgid "The Three Body Problem"
+msgstr ""
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:16
+msgid "Think in Wild"
+msgstr ""
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:17
+msgid "Where to Go"
+msgstr ""
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:18
+msgid "Worlds Greatest Barrier"
+msgstr ""
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:1
+msgid "Mountain Aer"
+msgstr ""
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:2
+msgid "Went Over"
+msgstr ""
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Distant Mountain"
+msgstr ""
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Sights of Southern Liaoning"
+msgstr ""
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Dancing Swan"
+msgstr ""
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:6
+msgid "House Sparrow"
+msgstr ""
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Reedy Grass"
+msgstr ""
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Autumn Scenery"
+msgstr ""
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Autumn Woods"
+msgstr ""
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:10
+msgid "Interspersion"
+msgstr ""
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Parashorea Chinensis"
+msgstr ""
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Time Deposit"
+msgstr ""
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Playing Kitty"
+msgstr ""
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:14
+msgid "Golden Pebble Beach"
+msgstr ""
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:15
+msgid "Saibei Scenery"
+msgstr ""
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:16
+msgid "Harvest Time"
+msgstr ""

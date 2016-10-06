@@ -1,0 +1,537 @@
+# Chinese translations for ubuntukylin-wallpapers package.
+# Copyright (C) 2013 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the ubuntukylin-wallpapers package.
+# Aron Xu <happyaron@ubuntu.com>, 2013, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntukylin-wallpapers 13.10.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-29 17:41+0800\n"
+"PO-Revision-Date: 2016-03-29 18:14+0800\n"
+"Last-Translator: Aron Xu <happyaron@ubuntu.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../ubuntukylin-wallpapers.xml.in.h:1
+msgid "Ubuntu Kylin"
+msgstr "Ubuntu Kylin"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:1
+msgid "Bird and Wall"
+msgstr "飞鸟与宫墙"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:2
+msgid "Chinese Pavilion"
+msgstr "建筑风·中国馆"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Heaven Temple"
+msgstr "建筑风·天坛"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Ornamental Columns"
+msgstr "建筑风·华表"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Butterfiles and flowers"
+msgstr "蝶恋花"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:6
+msgid "Colorful beach"
+msgstr "五彩滩"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Falling leaves"
+msgstr "落叶归根"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Guide to escape from earth"
+msgstr "地球逃生指南"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Hemu village"
+msgstr "禾木村"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:10
+msgid "Illusion wind"
+msgstr "幻·风"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Landscape of Guilin"
+msgstr "桂林山水"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Livingness"
+msgstr "活力"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Lotus"
+msgstr "荷花"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:14
+msgid "Lugu fishing boat"
+msgstr "泸沽湖渔舟"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:15
+msgid "Mist mountatins"
+msgstr "雾霭重山"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:16
+msgid "Panda"
+msgstr "熊猫"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:17
+msgid "Sapphire"
+msgstr "蓝宝石"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:18
+msgid "Sea of clouds"
+msgstr "云海"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:19
+msgid "Terrace land"
+msgstr "梯田"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:20
+msgid "Ubuntu and Kylin (black)"
+msgstr "Ubuntu 麒麟(黑)"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:21
+msgid "Applications in riotous profusion - Ubuntu Kylin"
+msgstr "缤纷应用"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:22
+msgid "Rain drops on glass - Ubuntu Kylin"
+msgstr "水珠玻璃"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:23
+msgid "Sparkling waves Blue - Ubuntu Kylin"
+msgstr "波光麟麟 - 蓝"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:24
+msgid "Sparkling waves Orange - Ubuntu Kylin"
+msgstr "波光麟麟 - 橙"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:25
+msgid "Sparkling waves Pink - Ubuntu Kylin"
+msgstr "波光麟麟 - 粉"
+
+#: ../saucy-ubuntukylin-wallpapers.xml.in.h:26
+msgid "Ubuntu Kylin Impression"
+msgstr "Ubuntu Kylin 印象"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:1
+msgid "After Rain"
+msgstr "雨后"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:2
+msgid "A Grass"
+msgstr "一株"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Autumn"
+msgstr "秋"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Dragonfly"
+msgstr "蜻蜓"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Dream Hippocampus"
+msgstr "梦幻海马"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:6
+msgid "Dream of Blue"
+msgstr "蓝色梦"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Fall Forest"
+msgstr "森林"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Flower Lake"
+msgstr "花湖"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Fresh Flower"
+msgstr "清新"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:10
+msgid "Gaohai Lake"
+msgstr "尕海"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Grassland"
+msgstr "草原"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Green Lake"
+msgstr "绿潭"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Kingfisher"
+msgstr "翠鸟"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:14
+msgid "Kylin Bubbles"
+msgstr "泡沫"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:15
+msgid "Kylin Flat"
+msgstr "扁平"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:16
+msgid "Nearshore Waves"
+msgstr "海浪"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:17
+msgid "New Life"
+msgstr "新生"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:18
+msgid "Stone Forest"
+msgstr "石林"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:19
+msgid "Summer Field"
+msgstr "夏日田野"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:20
+msgid "Summer Palace"
+msgstr "颐和园"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:21
+msgid "Sun Beach"
+msgstr "沙滩"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:22
+msgid "Tower"
+msgstr "塔"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:23
+msgid "Vault of Heaven"
+msgstr "苍穹"
+
+#: ../trusty-ubuntukylin-wallpapers.xml.in.h:24
+msgid "Wetland"
+msgstr "湿地"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:1
+msgid "Autumn Dusk"
+msgstr "秋日黄昏"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:2
+msgid "Crystal Ball"
+msgstr "水晶球"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Gardener of Nature"
+msgstr "大自然的园丁"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Hello World!"
+msgstr "Hello World!"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:5
+msgid "I Roam, I Enjoy"
+msgstr "我遨游，我快乐"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:6
+msgid "Metal Rhombus"
+msgstr "金属菱格"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Midnight Raster"
+msgstr "夜半星辉"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Morning Tune"
+msgstr "晨曲"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Myself"
+msgstr "我自己"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:10
+msgid "Northern River South"
+msgstr "北方江南"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Radiant Sparkles"
+msgstr "光彩夺目"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Rising Sun"
+msgstr "朝阳"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Rule of Attraction"
+msgstr "吸引法则"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:14
+msgid "Sky and Sands"
+msgstr "天静沙"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:15
+msgid "Small Flowers"
+msgstr "小花"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:16
+msgid "Sound of Blooming"
+msgstr "花开的声音"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:17
+msgid "Starry Night"
+msgstr "夜夜繁星"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:18
+msgid "Sunrise at Sea"
+msgstr "海上日出"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:19
+msgid "The Chameleon"
+msgstr "变色龙"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:20
+msgid "The Dandelion"
+msgstr "蒲公英"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:21
+msgid "The Rose"
+msgstr "蔷薇"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:22
+msgid "Undermeaning"
+msgstr "含蓄"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:23
+msgid "Warmth and Sands"
+msgstr "暖，沙"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:24
+msgid "Where Paths Meet"
+msgstr "曲径通幽"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:25
+msgid "Blue Ray"
+msgstr "蓝光"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:26
+msgid "Green Kylin"
+msgstr "绿麒麟"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:27
+msgid "Ordinary Road"
+msgstr "平凡之路"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:28
+msgid "Road of the Desert"
+msgstr "沙漠之路"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:29
+msgid "Secret Fragrance"
+msgstr "暗香"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:30
+msgid "Small Stones"
+msgstr "小小的石头"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:31
+msgid "The Rising Sun"
+msgstr "朝阳"
+
+#: ../utopic-ubuntukylin-wallpapers.xml.in.h:32
+msgid "Travel of a Click"
+msgstr "点击之旅"
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:1
+msgid "Mynah Bird"
+msgstr "八哥"
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:2
+msgid "Bright Clouds in the South"
+msgstr "彩云之南"
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Wholehearted"
+msgstr "我的心"
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Prince Hillside, Wudang"
+msgstr "武当太子坡"
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Erhai"
+msgstr "洱海"
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:6
+msgid "A Doll's House"
+msgstr "玩偶之家"
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Midsummer Flower"
+msgstr "盛夏"
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Half Green, Half Sands"
+msgstr "绿半城沙"
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Old Street"
+msgstr "老街"
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:10
+msgid "The Snow Crested"
+msgstr "苍山负雪"
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Resurrection"
+msgstr "苏醒"
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Ubuntu Kylin Blue"
+msgstr "Ubuntu Kylin 蓝"
+
+#: ../vivid-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Corner of Shangri-La"
+msgstr "香格里拉"
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:1
+msgid "Blooming"
+msgstr "绽放"
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:2
+msgid "Blue Sea and Blue Sky"
+msgstr "碧海蓝天"
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Ends of the Earth"
+msgstr "海角天涯"
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Folks Next to the Sea"
+msgstr "海处人家"
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Glare"
+msgstr "炫光"
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:6
+msgid "Ice World"
+msgstr "冰雪世界"
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Kitty"
+msgstr "花猫"
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Night in Town"
+msgstr "都市夜景"
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Pink Rose"
+msgstr "粉色玫瑰"
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:10
+msgid "Prairie after Rain"
+msgstr "雨后的草原"
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Saibei Style"
+msgstr "塞北风情"
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Ubuntu Kylin Orange"
+msgstr "心橙"
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Startrek"
+msgstr "星际旅行"
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:14
+msgid "Dan Gap"
+msgstr "七彩丹峡"
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:15
+msgid "The Three Body Problem"
+msgstr "三体"
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:16
+msgid "Think in Wild"
+msgstr "放眼世界"
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:17
+msgid "Where to Go"
+msgstr "路在何方"
+
+#: ../wily-ubuntukylin-wallpapers.xml.in.h:18
+msgid "Worlds Greatest Barrier"
+msgstr "天下第一关"
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:1
+msgid "Mountain Aer"
+msgstr "风情阿尔山"
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:2
+msgid "Went Over"
+msgstr "远行"
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Distant Mountain"
+msgstr "远山"
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Sights of Southern Liaoning"
+msgstr "辽南风光"
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Dancing Swan"
+msgstr "起舞"
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:6
+msgid "House Sparrow"
+msgstr "花雀"
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Reedy Grass"
+msgstr "芦苇花"
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Autumn Scenery"
+msgstr "秋色"
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Autumn Woods"
+msgstr "秋林"
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:10
+msgid "Interspersion"
+msgstr "点缀"
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Parashorea Chinensis"
+msgstr "望天树"
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Time Deposit"
+msgstr "时间沉淀"
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Playing Kitty"
+msgstr "戏猫"
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:14
+msgid "Golden Pebble Beach"
+msgstr "大连金石滩风光"
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:15
+msgid "Saibei Scenery"
+msgstr "塞北风情"
+
+#: ../xenial-ubuntukylin-wallpapers.xml.in.h:16
+msgid "Harvest Time"
+msgstr "丰收"

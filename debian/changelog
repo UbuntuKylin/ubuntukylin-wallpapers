@@ -1,0 +1,66 @@
+ubuntukylin-wallpapers (16.04.0) xenial; urgency=medium
+
+  * Wallpapers for Xenial
+
+ -- Aron Xu <happyaron@ubuntu.com>  Tue, 29 Mar 2016 18:15:18 +0800
+
+ubuntukylin-wallpapers (15.10.1) wily; urgency=medium
+
+  * wallpapers for wily
+
+ -- Aron Xu <happyaron@ubuntu.com>  Tue, 13 Oct 2015 12:50:15 +0100
+
+ubuntukylin-wallpapers (15.04.0) vivid; urgency=medium
+
+  * Wallpapers for Vivid.
+
+ -- Aron Xu <happyaron@ubuntu.com>  Thu, 22 Apr 2015 16:13:23 +0800
+
+ubuntukylin-wallpapers (14.10.1) utopic; urgency=low
+
+  * Update wallpapers for the contest.
+
+ -- Aron Xu <happyaron@ubuntu.com>  Thu, 16 Oct 2014 15:15:10 +0800
+
+ubuntukylin-wallpapers (14.10.0) utopic; urgency=low
+
+  * New wallpapers for Utopic release.
+
+ -- Aron Xu <happyaron@ubuntu.com>  Tue, 23 Sep 2014 01:42:35 +0800
+
+ubuntukylin-wallpapers (14.04.0) trusty; urgency=low
+
+  * New wallpapers for Trusty release.
+
+ -- Aron Xu <happyaron@ubuntu.com>  Thu, 27 Mar 2014 01:54:21 +0800
+
+ubuntukylin-wallpapers (13.10.3) trusty; urgency=low
+
+  * Branding change:
+    UbuntuKylin -> Ubuntu Kylin
+
+ -- Aron Xu <happyaron@ubuntu.com>  Sat, 14 Dec 2013 17:25:54 +0800
+
+ubuntukylin-wallpapers (13.10.2) saucy; urgency=low
+
+  * Add a link for ubuntu-default-settings.jpg (LP: #1218193)
+
+ -- Aron Xu <happyaron@ubuntu.com>  Thu, 10 Oct 2013 00:15:23 +0800
+
+ubuntukylin-wallpapers (13.10.1) saucy; urgency=low
+
+  [ Aron Xu ]
+  * Update default wallpaper.
+  * Add several new wallpapers and update meta data.
+  * Fix typo in description.
+
+  [ ShuiLu Pi ]
+  * Add gsettings override for default wallpaper.
+
+ -- Aron Xu <happyaron@ubuntu.com>  Tue, 17 Sep 2013 02:15:50 +0800
+
+ubuntukylin-wallpapers (13.10.0) saucy; urgency=low
+
+  * Initial release.
+
+ -- Aron Xu <happyaron@ubuntu.com>  Tue, 3 Mar 2013 11:47:10 +0800

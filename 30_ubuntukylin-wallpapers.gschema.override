@@ -1,0 +1,5 @@
+[com.canonical.unity-greeter]
+background="/usr/share/backgrounds/warty-final-ubuntukylin.jpg"
+
+[org.gnome.desktop.background]
+picture-uri='file:///usr/share/backgrounds/warty-final-ubuntukylin.jpg'
