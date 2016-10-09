@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-06 15:54+0800\n"
+"POT-Creation-Date: 2016-10-09 14:52+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -542,69 +542,69 @@ msgid "Blooming Sunflower"
 msgstr ""
 
 #: ../yakkety-ubuntukylin-wallpapers.xml.in.h:2
-msgid "Celebration of New Year.jpg"
+msgid "Celebration of New Year"
 msgstr ""
 
 #: ../yakkety-ubuntukylin-wallpapers.xml.in.h:3
-msgid "Charm of the Sea.jpg"
+msgid "Charm of the Sea"
 msgstr ""
 
 #: ../yakkety-ubuntukylin-wallpapers.xml.in.h:4
-msgid "Crystal.jpg"
+msgid "Crystal"
 msgstr ""
 
 #: ../yakkety-ubuntukylin-wallpapers.xml.in.h:5
-msgid "Elegant.jpg"
+msgid "Elegant"
 msgstr ""
 
 #: ../yakkety-ubuntukylin-wallpapers.xml.in.h:6
-msgid "Flying Sparrow.jpg"
+msgid "Flying Sparrow"
 msgstr ""
 
 #: ../yakkety-ubuntukylin-wallpapers.xml.in.h:7
-msgid "Fragrance.jpg"
+msgid "Fragrance"
 msgstr ""
 
 #: ../yakkety-ubuntukylin-wallpapers.xml.in.h:8
-msgid "Gift.jpg"
+msgid "Gift"
 msgstr ""
 
 #: ../yakkety-ubuntukylin-wallpapers.xml.in.h:9
-msgid "Kylin.jpg"
+msgid "Kylin"
 msgstr ""
 
 #: ../yakkety-ubuntukylin-wallpapers.xml.in.h:10
-msgid "Kylin Running.jpg"
+msgid "Kylin Running"
 msgstr ""
 
 #: ../yakkety-ubuntukylin-wallpapers.xml.in.h:11
-msgid "Lotus Reflection.jpg"
+msgid "Lotus Reflection"
 msgstr ""
 
 #: ../yakkety-ubuntukylin-wallpapers.xml.in.h:12
-msgid "Melody.jpg"
+msgid "Melody"
 msgstr ""
 
 #: ../yakkety-ubuntukylin-wallpapers.xml.in.h:13
-msgid "Morning on the Sea.jpg"
+msgid "Morning on the Sea"
 msgstr ""
 
 #: ../yakkety-ubuntukylin-wallpapers.xml.in.h:14
-msgid "New Town By the Shore.jpg"
+msgid "New Town By the Shore"
 msgstr ""
 
 #: ../yakkety-ubuntukylin-wallpapers.xml.in.h:15
-msgid "Red Leaves.jpg"
+msgid "Red Leaves"
 msgstr ""
 
 #: ../yakkety-ubuntukylin-wallpapers.xml.in.h:16
-msgid "Spring.jpg"
+msgid "Spring"
 msgstr ""
 
 #: ../yakkety-ubuntukylin-wallpapers.xml.in.h:17
-msgid "Summer In the North.jpg"
+msgid "Summer In the North"
 msgstr ""
 
 #: ../yakkety-ubuntukylin-wallpapers.xml.in.h:18
-msgid "warty final ubuntukylin.jpg"
+msgid "warty final ubuntukylin"
 msgstr ""
