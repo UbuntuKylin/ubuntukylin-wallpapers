@@ -683,4 +683,4 @@ msgstr "优客岛"
 
 #: ../zesty-ubuntukylin-wallpapers.xml.in.h:20
 msgid "Warty Final Ubuntukylin"
-msgstr "默认： 春江月夜"
+msgstr "默认"
