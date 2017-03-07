@@ -185,6 +185,6 @@
 	<transition>
 		<duration>3</duration>
 		<from>/usr/share/backgrounds/warty-final-ubuntukylin.jpg</from>
-		<to>/usr/share/backgrounds/.jpg</to>
+		<to>/usr/share/backgrounds/beach.jpg</to>
 	</transition>
 </background>
