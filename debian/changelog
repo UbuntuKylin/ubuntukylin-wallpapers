@@ -1,3 +1,9 @@
+ubuntukylin-wallpapers (17.04.0) zesty; urgency=medium
+
+  * Wallpapers for zesty
+
+ -- yanghaisheng <yanghaisheng@kylinos.cn>  Mon, 06 Mar 2017 19:42:04 +0800
+
 ubuntukylin-wallpapers (16.10.1) yakkety; urgency=medium
 
   * fix name error in yakkety-ubuntukylin-wallpapers.xml

@@ -605,6 +605,82 @@ msgstr "灵动春色"
 msgid "Summer In the North"
 msgstr "北国之夏"
 
-#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:18
-msgid "warty final ubuntukylin"
-msgstr "默认"
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:1
+msgid "Beach"
+msgstr "沙滩"
+
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:2
+msgid "Flying Bird"
+msgstr "飞鸟"
+
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Koala"
+msgstr "考拉"
+
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Magic Forest"
+msgstr "魔法森林"
+
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Morning in the Autumn"
+msgstr "秋天的早晨"
+
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:6
+msgid "Morning in the coast city"
+msgstr "滨城之晨"
+
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Owl"
+msgstr "猫头鹰"
+
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Peach Blossom"
+msgstr "十里桃花"
+
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Snow Love"
+msgstr "雪情"
+
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:10
+msgid "Spring Ploughing"
+msgstr "春耕"
+
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Stone Dragon"
+msgstr "石龙"
+
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Sunflower"
+msgstr "向日葵"
+
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Sunrise in Yadan"
+msgstr "雅丹日出"
+
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:14
+msgid "Sunset Wind"
+msgstr "落日乘风"
+
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:15
+msgid "Tower of Yellow Crane"
+msgstr "黄鹤楼"
+
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:16
+msgid "Tulip"
+msgstr "郁金香"
+
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:17
+msgid "Winter in the Bohai Sea"
+msgstr "渤海冬意"
+
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:18
+msgid "Yacht"
+msgstr "游艇"
+
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:19
+msgid "Youker Island"
+msgstr "优客岛"
+
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:20
+msgid "Warty Final Ubuntukylin"
+msgstr "默认： 春江月夜"
