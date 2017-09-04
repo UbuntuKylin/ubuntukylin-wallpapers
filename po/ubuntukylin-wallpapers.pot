@@ -684,3 +684,35 @@ msgstr ""
 #: ../zesty-ubuntukylin-wallpapers.xml.in.h:20
 msgid "Warty Final Ubuntukylin"
 msgstr ""
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:1
+msgid "Chinese Knot"
+msgstr ""
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:2
+msgid "Starry Sky"
+msgstr ""
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Fantast"
+msgstr ""
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Purple City"
+msgstr ""
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Dazzle Light"
+msgstr ""
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:6
+msgid "Blue City"
+msgstr ""
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Autumn"
+msgstr ""
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Warty Final Ubuntukylin"
+msgstr ""

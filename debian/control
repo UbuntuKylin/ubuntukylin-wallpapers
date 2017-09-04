@@ -14,10 +14,17 @@ Package: ubuntukylin-wallpapers
 Architecture: all
 Section: metapackages
 Depends: ${misc:Depends},
-         ubuntukylin-wallpapers-zesty,
+         ubuntukylin-wallpapers-artful,
 Description: Ubuntu Kylin Wallpapers
  The default Ubuntu Kylin wallpaper. This is also a metapackage depending on
  the other default wallpapers for the current Ubuntu Kylin release.
+
+Package: ubuntukylin-wallpapers-artful
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu Kylin 17.10 Wallpapers
+ Outstanding wallpapers selected from Ubuntu Kylin 17.10 Wallpaper Contest. 
+ These wallpapers are expected to show wonderful Chinese style.
 
 Package: ubuntukylin-wallpapers-zesty
 Architecture: all

@@ -681,6 +681,34 @@ msgstr "游艇"
 msgid "Youker Island"
 msgstr "优客岛"
 
-#: ../zesty-ubuntukylin-wallpapers.xml.in.h:20
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:1
+msgid "Chinese Knot"
+msgstr "中国结"
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:2
+msgid "Starry Sky"
+msgstr "星空"
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Fantast"
+msgstr "梦想家"
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Purple City"
+msgstr "紫色之城"
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Dazzle Light"
+msgstr "炫光"
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:6
+msgid "Blue City"
+msgstr "蓝色之城"
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Autumn"
+msgstr "秋"
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:8
 msgid "Warty Final Ubuntukylin"
 msgstr "默认"
