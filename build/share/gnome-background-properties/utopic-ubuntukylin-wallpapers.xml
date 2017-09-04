@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Ubuntu Kylin 14.10 Community Wallpapers</name>
+    <filename>/usr/share/backgrounds/ubuntukylin/utopic.xml</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper>
+    <name>Autumn Dusk</name>
+    <name xml:lang="zh_CN">秋日黄昏</name>
+    <filename>/usr/share/backgrounds/autumn-dusk.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Crystal Ball</name>
+    <name xml:lang="zh_CN">水晶球</name>
+    <filename>/usr/share/backgrounds/crystal-ball.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Gardener of Nature</name>
+    <name xml:lang="zh_CN">大自然的园丁</name>
+    <filename>/usr/share/backgrounds/gardener-of-nature.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Hello World!</name>
+    <name xml:lang="zh_CN">Hello World!</name>
+    <filename>/usr/share/backgrounds/hello-world.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>I Roam, I Enjoy</name>
+    <name xml:lang="zh_CN">我遨游，我快乐</name>
+    <filename>/usr/share/backgrounds/i-roam-i-enjoy.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Metal Rhombus</name>
+    <name xml:lang="zh_CN">金属菱格</name>
+    <filename>/usr/share/backgrounds/metal-rhombus.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Midnight Raster</name>
+    <name xml:lang="zh_CN">夜半星辉</name>
+    <filename>/usr/share/backgrounds/midnight-raster.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Morning Tune</name>
+    <name xml:lang="zh_CN">晨曲</name>
+    <filename>/usr/share/backgrounds/morning-tune.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Myself</name>
+    <name xml:lang="zh_CN">我自己</name>
+    <filename>/usr/share/backgrounds/myself.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Northern River South</name>
+    <name xml:lang="zh_CN">北方江南</name>
+    <filename>/usr/share/backgrounds/northern-riversouth.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Radiant Sparkles</name>
+    <name xml:lang="zh_CN">光彩夺目</name>
+<filename>/usr/share/backgrounds/radiant-sparkles.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Rising Sun</name>
+    <name xml:lang="zh_CN">朝阳</name>
+    <filename>/usr/share/backgrounds/rising-sun.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Rule of Attraction</name>
+    <name xml:lang="zh_CN">吸引法则</name>
+    <filename>/usr/share/backgrounds/rule-of-attraction.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Sky and Sands</name>
+    <name xml:lang="zh_CN">天静沙</name>
+    <filename>/usr/share/backgrounds/sky-and-sands.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Small Flowers</name>
+    <name xml:lang="zh_CN">小花</name>
+    <filename>/usr/share/backgrounds/small-flowers.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Sound of Blooming</name>
+    <name xml:lang="zh_CN">花开的声音</name>
+    <filename>/usr/share/backgrounds/sound-of-blooming.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Starry Night</name>
+    <name xml:lang="zh_CN">夜夜繁星</name>
+    <filename>/usr/share/backgrounds/starry-night.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Sunrise at Sea</name>
+    <name xml:lang="zh_CN">海上日出</name>
+    <filename>/usr/share/backgrounds/sunrise-at-sea.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>The Chameleon</name>
+    <name xml:lang="zh_CN">变色龙</name>
+    <filename>/usr/share/backgrounds/the-chameleon.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>The Dandelion</name>
+    <name xml:lang="zh_CN">蒲公英</name>
+    <filename>/usr/share/backgrounds/the-dandelion.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>The Rose</name>
+    <name xml:lang="zh_CN">蔷薇</name>
+    <filename>/usr/share/backgrounds/the-rose.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Undermeaning</name>
+    <name xml:lang="zh_CN">含蓄</name>
+    <filename>/usr/share/backgrounds/undermeaning.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Warmth and Sands</name>
+    <name xml:lang="zh_CN">暖，沙</name>
+    <filename>/usr/share/backgrounds/warmth-and-sands.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Where Paths Meet</name>
+    <name xml:lang="zh_CN">曲径通幽</name>
+    <filename>/usr/share/backgrounds/where-paths-meet.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Blue Ray</name>
+    <name xml:lang="zh_CN">蓝光</name>
+    <filename>/usr/share/backgrounds/blue-ray.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Green Kylin</name>
+    <name xml:lang="zh_CN">绿麒麟</name>
+    <filename>/usr/share/backgrounds/green-kylin.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ordinary Road</name>
+    <name xml:lang="zh_CN">平凡之路</name>
+    <filename>/usr/share/backgrounds/ordinary-road.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Road of the Desert</name>
+    <name xml:lang="zh_CN">沙漠之路</name>
+    <filename>/usr/share/backgrounds/road-of-the-desert.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Secret Fragrance</name>
+    <name xml:lang="zh_CN">暗香</name>
+    <filename>/usr/share/backgrounds/secret-fragrance.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Small Stones</name>
+    <name xml:lang="zh_CN">小小的石头</name>
+    <filename>/usr/share/backgrounds/small-stones.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>The Rising Sun</name>
+    <name xml:lang="zh_CN">朝阳</name>
+    <filename>/usr/share/backgrounds/the-rising-sun.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Travel of a Click</name>
+    <name xml:lang="zh_CN">点击之旅</name>
+    <filename>/usr/share/backgrounds/travel-of-a-click.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+ </wallpapers>

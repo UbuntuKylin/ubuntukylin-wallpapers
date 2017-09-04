@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Ubuntu Kylin 15.04 Community Wallpapers</name>
+    <filename>/usr/share/backgrounds/ubuntukylin/vivid.xml</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper>
+    <name>Mynah Bird</name>
+    <name xml:lang="zh_CN">八哥</name>
+    <filename>/usr/share/backgrounds/mynah-bird.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Bright Clouds in the South</name>
+    <name xml:lang="zh_CN">彩云之南</name>
+    <filename>/usr/share/backgrounds/bright-clouds-in-the-south.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Wholehearted</name>
+    <name xml:lang="zh_CN">我的心</name>
+    <filename>/usr/share/backgrounds/wholehearted.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Prince Hillside, Wudang</name>
+    <name xml:lang="zh_CN">武当太子坡</name>
+    <filename>/usr/share/backgrounds/prince-hillside-wudang.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Erhai</name>
+    <name xml:lang="zh_CN">洱海</name>
+    <filename>/usr/share/backgrounds/erhai.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>A Doll's House</name>
+    <name xml:lang="zh_CN">玩偶之家</name>
+    <filename>/usr/share/backgrounds/a-dolls-house.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Midsummer Flower</name>
+    <name xml:lang="zh_CN">盛夏</name>
+    <filename>/usr/share/backgrounds/midsummer-flower.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Half Green, Half Sands</name>
+    <name xml:lang="zh_CN">绿半城沙</name>
+    <filename>/usr/share/backgrounds/half-green-half-sands.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Old Street</name>
+    <name xml:lang="zh_CN">老街</name>
+    <filename>/usr/share/backgrounds/old-street.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>The Snow Crested</name>
+    <name xml:lang="zh_CN">苍山负雪</name>
+    <filename>/usr/share/backgrounds/the-snow-crested.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Resurrection</name>
+    <name xml:lang="zh_CN">苏醒</name>
+    <filename>/usr/share/backgrounds/resurrection.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ubuntu Kylin Blue</name>
+    <name xml:lang="zh_CN">Ubuntu Kylin 蓝</name>
+    <filename>/usr/share/backgrounds/ubuntukylin-blue.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Corner of Shangri-La</name>
+    <name xml:lang="zh_CN">香格里拉</name>
+    <filename>/usr/share/backgrounds/corner-of-shangrila.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>

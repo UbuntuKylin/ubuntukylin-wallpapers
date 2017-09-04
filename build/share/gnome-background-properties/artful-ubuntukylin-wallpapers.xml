@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
  <wallpaper deleted="false">
@@ -7,7 +7,7 @@
    <options>zoom</options>
  </wallpaper>
  <wallpaper>
-     <_name>Chinese knot</_name>
+     <name>Chinese knot</name>
      <filename>/usr/share/backgrounds/chinese-knot.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
@@ -15,7 +15,7 @@
      <shade_type>solid</shade_type>
  </wallpaper>
  <wallpaper>
-     <_name>Warty final ubuntukylin</_name>
+     <name>Warty final ubuntukylin</name>
      <filename>/usr/share/backgrounds/starry-sky.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
@@ -23,7 +23,8 @@
      <shade_type>solid</shade_type>
  </wallpaper>
  <wallpaper>
-     <_name>Fantast</_name>
+     <name>Fantast</name>
+     <name xml:lang="zh_CN">梦想家</name>
      <filename>/usr/share/backgrounds/fantast.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
@@ -31,7 +32,7 @@
      <shade_type>solid</shade_type>
  </wallpaper>
  <wallpaper>
-     <_name>Purple city</_name>
+     <name>Purple city</name>
      <filename>/usr/share/backgrounds/purple-city.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
@@ -39,7 +40,7 @@
      <shade_type>solid</shade_type>
  </wallpaper>
  <wallpaper>
-     <_name>Dazzle light</_name>
+     <name>Dazzle light</name>
      <filename>/usr/share/backgrounds/dazzle-light.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
@@ -47,7 +48,7 @@
      <shade_type>solid</shade_type>
  </wallpaper>
  <wallpaper>
-     <_name>Blue city</_name>
+     <name>Blue city</name>
      <filename>/usr/share/backgrounds/blue-city.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
@@ -55,7 +56,7 @@
      <shade_type>solid</shade_type>
  </wallpaper>
  <wallpaper>
-     <_name>Seasons autumn</_name>
+     <name>Seasons autumn</name>
      <filename>/usr/share/backgrounds/seasons-autumn.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
@@ -63,7 +64,7 @@
      <shade_type>solid</shade_type>
  </wallpaper>
  <wallpaper>
-     <_name>Starry sky</_name>
+     <name>Starry sky</name>
      <filename>/usr/share/backgrounds/warty-final-ubuntukylin.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
@@ -71,4 +72,3 @@
      <shade_type>solid</shade_type>
  </wallpaper>
 </wallpapers>
-

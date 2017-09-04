@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Ubuntu Kylin 15.10 Community Wallpapers</name>
+    <filename>/usr/share/backgrounds/ubuntukylin/wily.xml</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper>
+    <name>Blooming</name>
+    <name xml:lang="zh_CN">绽放</name>
+    <filename>/usr/share/backgrounds/blooming.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Blue Sea and Blue Sky</name>
+    <name xml:lang="zh_CN">碧海蓝天</name>
+    <filename>/usr/share/backgrounds/blue-sea-and-blue-sky.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ends of the Earth</name>
+    <name xml:lang="zh_CN">海角天涯</name>
+    <filename>/usr/share/backgrounds/ends-of-the-earth.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Folks Next to the Sea</name>
+    <name xml:lang="zh_CN">海处人家</name>
+    <filename>/usr/share/backgrounds/folks-next-to-sea.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Glare</name>
+    <name xml:lang="zh_CN">炫光</name>
+    <filename>/usr/share/backgrounds/glare.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ice World</name>
+    <name xml:lang="zh_CN">冰雪世界</name>
+    <filename>/usr/share/backgrounds/ice-world.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Kitty</name>
+    <name xml:lang="zh_CN">花猫</name>
+    <filename>/usr/share/backgrounds/little-cat.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Night in Town</name>
+    <name xml:lang="zh_CN">都市夜景</name>
+    <filename>/usr/share/backgrounds/night-in-town.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Pink Rose</name>
+    <name xml:lang="zh_CN">粉色玫瑰</name>
+    <filename>/usr/share/backgrounds/pink-rose.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Prairie after Rain</name>
+    <name xml:lang="zh_CN">雨后的草原</name>
+    <filename>/usr/share/backgrounds/prairie-after-rain.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Saibei Style</name>
+    <name xml:lang="zh_CN">塞北风情</name>
+    <filename>/usr/share/backgrounds/saibei-style.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Ubuntu Kylin Orange</name>
+    <name xml:lang="zh_CN">心橙</name>
+    <filename>/usr/share/backgrounds/ubuntukylin-orange.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Startrek</name>
+    <name xml:lang="zh_CN">星际旅行</name>
+    <filename>/usr/share/backgrounds/startrek.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Dan Gap</name>
+    <name xml:lang="zh_CN">七彩丹峡</name>
+    <filename>/usr/share/backgrounds/the-dan-gap.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>The Three Body Problem</name>
+    <name xml:lang="zh_CN">三体</name>
+    <filename>/usr/share/backgrounds/the-three-body-problem.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Think in Wild</name>
+    <name xml:lang="zh_CN">放眼世界</name>
+    <filename>/usr/share/backgrounds/think-in-wild.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Where to Go</name>
+    <name xml:lang="zh_CN">路在何方</name>
+    <filename>/usr/share/backgrounds/where-to-go.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Worlds Greatest Barrier</name>
+    <name xml:lang="zh_CN">天下第一关</name>
+    <filename>/usr/share/backgrounds/worlds-greatest-barrier.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>

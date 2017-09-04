@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Ubuntu Kylin 16.04 Community Wallpapers</name>
+    <filename>/usr/share/backgrounds/ubuntukylin/xenial.xml</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper>
+    <name>Mountain Aer</name>
+    <name xml:lang="zh_CN">风情阿尔山</name>
+    <filename>/usr/share/backgrounds/mountain-aer.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Went Over</name>
+    <name xml:lang="zh_CN">远行</name>
+    <filename>/usr/share/backgrounds/went-over.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Distant Mountain</name>
+    <name xml:lang="zh_CN">远山</name>
+    <filename>/usr/share/backgrounds/distant-mountain.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Sights of Southern Liaoning</name>
+    <name xml:lang="zh_CN">辽南风光</name>
+    <filename>/usr/share/backgrounds/sights-southern-liaoning.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Dancing Swan</name>
+    <name xml:lang="zh_CN">起舞</name>
+    <filename>/usr/share/backgrounds/dancing-swan.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>House Sparrow</name>
+    <name xml:lang="zh_CN">花雀</name>
+    <filename>/usr/share/backgrounds/house-sparrow.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Reedy Grass</name>
+    <name xml:lang="zh_CN">芦苇花</name>
+    <filename>/usr/share/backgrounds/reedy-grass.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Autumn Scenery</name>
+    <name xml:lang="zh_CN">秋色</name>
+    <filename>/usr/share/backgrounds/autumn-scenery.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Autumn Woods</name>
+    <name xml:lang="zh_CN">秋林</name>
+    <filename>/usr/share/backgrounds/autumn-woods.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Interspersion</name>
+    <name xml:lang="zh_CN">点缀</name>
+    <filename>/usr/share/backgrounds/interspersion.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Parashorea Chinensis</name>
+    <name xml:lang="zh_CN">望天树</name>
+    <filename>/usr/share/backgrounds/parashorea-chinensis.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Time Deposit</name>
+    <name xml:lang="zh_CN">时间沉淀</name>
+    <filename>/usr/share/backgrounds/time-deposit.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Playing Kitty</name>
+    <name xml:lang="zh_CN">戏猫</name>
+    <filename>/usr/share/backgrounds/playing-kitty.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Golden Pebble Beach</name>
+    <name xml:lang="zh_CN">大连金石滩风光</name>
+    <filename>/usr/share/backgrounds/golden-pebble-beach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Saibei Scenery</name>
+    <name xml:lang="zh_CN">塞北风情</name>
+    <filename>/usr/share/backgrounds/saibei-scenery.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Harvest Time</name>
+    <name xml:lang="zh_CN">丰收</name>
+    <filename>/usr/share/backgrounds/harvest-time.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>

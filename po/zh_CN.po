@@ -706,7 +706,7 @@ msgid "Blue City"
 msgstr "蓝色之城"
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:7
-msgid "Autumn"
+msgid "Seasons Autumn"
 msgstr "秋"
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:8

@@ -60,15 +60,15 @@
   <transition>
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/blue-city.jpg</from>
-    <to>/usr/share/backgrounds/autumn.jpg</to>
+    <to>/usr/share/backgrounds/seasons-autumn.jpg</to>
   </transition>
   <static>
     <duration>300</duration>
-    <file>/usr/share/backgrounds/autumn.jpg</file>
+    <file>/usr/share/backgrounds/seasons-autumn.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/autumn.jpg</from>
+    <from>/usr/share/backgrounds/seasons-autumn.jpg</from>
     <to>/usr/share/backgrounds/warty-final-ubuntukylin.jpg</to>
   </transition>
   <static>

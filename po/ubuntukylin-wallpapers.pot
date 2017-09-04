@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-09 14:52+0800\n"
+"POT-Creation-Date: 2017-09-04 14:14+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -605,6 +605,10 @@ msgstr ""
 msgid "Summer In the North"
 msgstr ""
 
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:18
+msgid "warty final ubuntukylin"
+msgstr ""
+
 #: ../zesty-ubuntukylin-wallpapers.xml.in.h:1
 msgid "Beach"
 msgstr ""
@@ -686,11 +690,11 @@ msgid "Warty Final Ubuntukylin"
 msgstr ""
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:1
-msgid "Chinese Knot"
+msgid "Chinese knot"
 msgstr ""
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:2
-msgid "Starry Sky"
+msgid "Warty final ubuntukylin"
 msgstr ""
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:3
@@ -698,21 +702,21 @@ msgid "Fantast"
 msgstr ""
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:4
-msgid "Purple City"
+msgid "Purple city"
 msgstr ""
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:5
-msgid "Dazzle Light"
+msgid "Dazzle light"
 msgstr ""
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:6
-msgid "Blue City"
+msgid "Blue city"
 msgstr ""
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:7
-msgid "Autumn"
+msgid "Seasons autumn"
 msgstr ""
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:8
-msgid "Warty Final Ubuntukylin"
+msgid "Starry sky"
 msgstr ""

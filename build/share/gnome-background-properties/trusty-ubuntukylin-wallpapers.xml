@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Ubuntu Kylin 14.04 Community Wallpapers</name>
+    <filename>/usr/share/backgrounds/ubuntukylin/trusty.xml</filename>
+    <options>zoom</options>
+  </wallpaper>
+  <wallpaper>
+    <name>After Rain</name>
+    <name xml:lang="zh_CN">雨后</name>
+    <filename>/usr/share/backgrounds/after-rain.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>A Grass</name>
+    <name xml:lang="zh_CN">一株</name>
+    <filename>/usr/share/backgrounds/a-grass.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Autumn</name>
+    <name xml:lang="zh_CN">秋</name>
+    <filename>/usr/share/backgrounds/autumn.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Dragonfly</name>
+    <name xml:lang="zh_CN">蜻蜓</name>
+    <filename>/usr/share/backgrounds/dragonfly.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Dream Hippocampus</name>
+    <name xml:lang="zh_CN">梦幻海马</name>
+    <filename>/usr/share/backgrounds/dream-hippocampus.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Dream of Blue</name>
+    <name xml:lang="zh_CN">蓝色梦</name>
+    <filename>/usr/share/backgrounds/dream-of-blue.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Fall Forest</name>
+    <name xml:lang="zh_CN">森林</name>
+    <filename>/usr/share/backgrounds/fall-forest.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Flower Lake</name>
+    <name xml:lang="zh_CN">花湖</name>
+    <filename>/usr/share/backgrounds/flower-lake.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Fresh Flower</name>
+    <name xml:lang="zh_CN">清新</name>
+    <filename>/usr/share/backgrounds/fresh-flower.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Gaohai Lake</name>
+    <name xml:lang="zh_CN">尕海</name>
+    <filename>/usr/share/backgrounds/gaohai-lake.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Grassland</name>
+    <name xml:lang="zh_CN">草原</name>
+    <filename>/usr/share/backgrounds/grassland.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Green Lake</name>
+    <name xml:lang="zh_CN">绿潭</name>
+    <filename>/usr/share/backgrounds/green-lake.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Kingfisher</name>
+    <name xml:lang="zh_CN">翠鸟</name>
+    <filename>/usr/share/backgrounds/kingfisher.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Kylin Bubbles</name>
+    <name xml:lang="zh_CN">泡沫</name>
+    <filename>/usr/share/backgrounds/kylin-bubbles.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Kylin Flat</name>
+    <name xml:lang="zh_CN">扁平</name>
+    <filename>/usr/share/backgrounds/kylin-flat.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Nearshore Waves</name>
+    <name xml:lang="zh_CN">海浪</name>
+    <filename>/usr/share/backgrounds/nearshore-waves.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>New Life</name>
+    <name xml:lang="zh_CN">新生</name>
+    <filename>/usr/share/backgrounds/new-life.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Stone Forest</name>
+    <name xml:lang="zh_CN">石林</name>
+    <filename>/usr/share/backgrounds/stone-forest.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Summer Field</name>
+    <name xml:lang="zh_CN">夏日田野</name>
+    <filename>/usr/share/backgrounds/summer-field.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Summer Palace</name>
+    <name xml:lang="zh_CN">颐和园</name>
+    <filename>/usr/share/backgrounds/summer-palace.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Sun Beach</name>
+    <name xml:lang="zh_CN">沙滩</name>
+    <filename>/usr/share/backgrounds/sun-beach.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Tower</name>
+    <name xml:lang="zh_CN">塔</name>
+    <filename>/usr/share/backgrounds/tower.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Vault of Heaven</name>
+    <name xml:lang="zh_CN">苍穹</name>
+    <filename>/usr/share/backgrounds/vault-of-heaven.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Wetland</name>
+    <name xml:lang="zh_CN">湿地</name>
+    <filename>/usr/share/backgrounds/wetland.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+ </wallpapers>
