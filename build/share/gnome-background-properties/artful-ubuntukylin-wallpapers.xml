@@ -15,7 +15,7 @@
      <shade_type>solid</shade_type>
  </wallpaper>
  <wallpaper>
-     <name>Warty final ubuntukylin</name>
+     <name>Starry sky</name>
      <filename>/usr/share/backgrounds/starry-sky.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
@@ -64,7 +64,8 @@
      <shade_type>solid</shade_type>
  </wallpaper>
  <wallpaper>
-     <name>Starry sky</name>
+     <name>Warty Final Ubuntukylin</name>
+     <name xml:lang="zh_CN">默认</name>
      <filename>/usr/share/backgrounds/warty-final-ubuntukylin.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-04 14:14+0800\n"
+"POT-Creation-Date: 2017-09-05 08:39+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -686,6 +686,7 @@ msgid "Youker Island"
 msgstr ""
 
 #: ../zesty-ubuntukylin-wallpapers.xml.in.h:20
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:8
 msgid "Warty Final Ubuntukylin"
 msgstr ""
 
@@ -694,7 +695,7 @@ msgid "Chinese knot"
 msgstr ""
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:2
-msgid "Warty final ubuntukylin"
+msgid "Starry sky"
 msgstr ""
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:3
@@ -715,8 +716,4 @@ msgstr ""
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:7
 msgid "Seasons autumn"
-msgstr ""
-
-#: ../artful-ubuntukylin-wallpapers.xml.in.h:8
-msgid "Starry sky"
 msgstr ""
