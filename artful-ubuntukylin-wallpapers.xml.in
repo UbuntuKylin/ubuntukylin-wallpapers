@@ -63,6 +63,102 @@
      <shade_type>solid</shade_type>
  </wallpaper>
  <wallpaper>
+     <_name>Beach2</_name>
+     <filename>/usr/share/backgrounds/beach.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Flying Bird2</_name>
+     <filename>/usr/share/backgrounds/flying-bird.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Koala2</_name>
+     <filename>/usr/share/backgrounds/koala.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Magic Forest2</_name>
+     <filename>/usr/share/backgrounds/magic-forest.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Morning in the Autumn2</_name>
+     <filename>/usr/share/backgrounds/morning-in-the-autumn.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Morning in the coast city2</_name>
+     <filename>/usr/share/backgrounds/morning-in-the-coast-city.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Owl2</_name>
+     <filename>/usr/share/backgrounds/owl.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Peach Blossom2</_name>
+     <filename>/usr/share/backgrounds/peach-blossom.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Snow Love2</_name>
+     <filename>/usr/share/backgrounds/snow-love.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Spring Ploughing2</_name>
+     <filename>/usr/share/backgrounds/spring-ploughing.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Stone Dragon2</_name>
+     <filename>/usr/share/backgrounds/stone-dragon.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
+     <_name>Sunflower2</_name>
+     <filename>/usr/share/backgrounds/sunflower.jpg</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>
+ <wallpaper>
      <_name>Warty Final Ubuntukylin</_name>
      <filename>/usr/share/backgrounds/warty-final-ubuntukylin.jpg</filename>
      <options>zoom</options>

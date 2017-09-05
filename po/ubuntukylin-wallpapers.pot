@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-05 08:39+0800\n"
+"POT-Creation-Date: 2017-09-05 15:57+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -686,7 +686,7 @@ msgid "Youker Island"
 msgstr ""
 
 #: ../zesty-ubuntukylin-wallpapers.xml.in.h:20
-#: ../artful-ubuntukylin-wallpapers.xml.in.h:8
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:20
 msgid "Warty Final Ubuntukylin"
 msgstr ""
 
@@ -716,4 +716,52 @@ msgstr ""
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:7
 msgid "Seasons autumn"
+msgstr ""
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Beach2"
+msgstr ""
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Flying Bird2"
+msgstr ""
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:10
+msgid "Koala2"
+msgstr ""
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Magic Forest2"
+msgstr ""
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Morning in the Autumn2"
+msgstr ""
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Morning in the coast city2"
+msgstr ""
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:14
+msgid "Owl2"
+msgstr ""
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:15
+msgid "Peach Blossom2"
+msgstr ""
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:16
+msgid "Snow Love2"
+msgstr ""
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:17
+msgid "Spring Ploughing2"
+msgstr ""
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:18
+msgid "Stone Dragon2"
+msgstr ""
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:19
+msgid "Sunflower2"
 msgstr ""

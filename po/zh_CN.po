@@ -710,5 +710,53 @@ msgid "Seasons Autumn"
 msgstr "秋"
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Beachi2"
+msgstr "沙滩"
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Flying Bird2"
+msgstr "飞鸟"
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:10
+msgid "Koala2"
+msgstr "考拉"
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Magic Forest2"
+msgstr "魔法森林"
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Morning in the Autumn2"
+msgstr "秋天的早晨"
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Morning in the coast city2"
+msgstr "滨城之晨"
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:14
+msgid "Owl2"
+msgstr "猫头鹰"
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:15
+msgid "Peach Blossom2"
+msgstr "十里桃花"
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:16
+msgid "Snow Love2"
+msgstr "雪情"
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:17
+msgid "Spring Ploughing2"
+msgstr "春耕"
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:18
+msgid "Stone Dragon2"
+msgstr "石龙"
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:19
+msgid "Sunflower2"
+msgstr "向日葵"
+
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:20
 msgid "Warty Final Ubuntukylin"
 msgstr "默认"
