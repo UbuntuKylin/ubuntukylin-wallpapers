@@ -69,114 +69,114 @@
   <transition>
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/seasons-autumn.jpg</from>
-    <to>/usr/share/backgrounds/beach.jpg</to>
+    <to>/usr/share/backgrounds/beach2.jpg</to>
   </transition>
   <static>
 	<duration>300</duration>
-	<file>/usr/share/backgrounds/beach.jpg</file>
+	<file>/usr/share/backgrounds/beach2.jpg</file>
   </static>
   <transition>
 	<duration>3</duration>
-	<from>/usr/share/backgrounds/beach.jpg</from>
-	<to>/usr/share/backgrounds/flying-bird.jpg</to>
+	<from>/usr/share/backgrounds/beach2.jpg</from>
+	<to>/usr/share/backgrounds/flying-bird2.jpg</to>
   </transition>
   <static>
 	<duration>300</duration>
-	<file>/usr/share/backgrounds/flying-bird.jpg</file>
+	<file>/usr/share/backgrounds/flying-bird2.jpg</file>
   </static>
   <transition>
 	<duration>3</duration>
-	<from>/usr/share/backgrounds/flying-bird.jpg</from>
-	<to>/usr/share/backgrounds/koala.jpg</to>
+	<from>/usr/share/backgrounds/flying-bird2.jpg</from>
+	<to>/usr/share/backgrounds/koala2.jpg</to>
   </transition>
   <static>
 	<duration>300</duration>
-	<file>/usr/share/backgrounds/koala.jpg</file>
+	<file>/usr/share/backgrounds/koala2.jpg</file>
   </static>
   <transition>
 	<duration>3</duration>
-	<from>/usr/share/backgrounds/koala.jpg</from>
-	<to>/usr/share/backgrounds/magic-forest.jpg</to>
+	<from>/usr/share/backgrounds/koala2.jpg</from>
+	<to>/usr/share/backgrounds/magic-forest2.jpg</to>
   </transition>
   <static>
 	<duration>300</duration>
-	<file>/usr/share/backgrounds/magic-forest.jpg</file>
+	<file>/usr/share/backgrounds/magic-forest2.jpg</file>
   </static>
   <transition>
 	<duration>3</duration>
-	<from>/usr/share/backgrounds/magic-forest.jpg</from>
-	<to>/usr/share/backgrounds/morning-in-the-autumn.jpg</to>
+	<from>/usr/share/backgrounds/magic-forest2.jpg</from>
+	<to>/usr/share/backgrounds/morning-in-the-autumn2.jpg</to>
   </transition>
   <static>
 	<duration>300</duration>
-	<file>/usr/share/backgrounds/morning-in-the-autumn.jpg</file>
+	<file>/usr/share/backgrounds/morning-in-the-autumn2.jpg</file>
 	</static>
   <transition>
 	<duration>3</duration>
-	<from>/usr/share/backgrounds/morning-in-the-autumn.jpg</from>
-	<to>/usr/share/backgrounds/morning-in-the-coast-city.jpg</to>
+	<from>/usr/share/backgrounds/morning-in-the-autumn2.jpg</from>
+	<to>/usr/share/backgrounds/morning-in-the-coast-city2.jpg</to>
   </transition>
   <static>
 	<duration>300</duration>
-	<file>/usr/share/backgrounds/morning-in-the-coast-city.jpg</file>
+	<file>/usr/share/backgrounds/morning-in-the-coast-city2.jpg</file>
   </static>
   <transition>
 	<duration>3</duration>
-	<from>/usr/share/backgrounds/morning-in-the-coast-city.jpg</from>
-	<to>/usr/share/backgrounds/owl.jpg</to>
+	<from>/usr/share/backgrounds/morning-in-the-coast-city2.jpg</from>
+	<to>/usr/share/backgrounds/owl2.jpg</to>
   </transition>
   <static>
 	<duration>300</duration>
-	<file>/usr/share/backgrounds/owl.jpg</file>
+	<file>/usr/share/backgrounds/owl2.jpg</file>
   </static>
   <transition>
 	<duration>3</duration>
-	<from>/usr/share/backgrounds/owl.jpg</from>
-	<to>/usr/share/backgrounds/peach-blossom.jpg</to>
+	<from>/usr/share/backgrounds/owl2.jpg</from>
+	<to>/usr/share/backgrounds/peach-blossom2.jpg</to>
   </transition>
   <static>
 	<duration>300</duration>
-	<file>/usr/share/backgrounds/peach-blossom.jpg</file>
+	<file>/usr/share/backgrounds/peach-blossom2.jpg</file>
   </static>
   <transition>
 	<duration>3</duration>
-	<from>/usr/share/backgrounds/peach-blossom.jpg</from>
-	<to>/usr/share/backgrounds/snow-love.jpg</to>
+	<from>/usr/share/backgrounds/peach-blossom2.jpg</from>
+	<to>/usr/share/backgrounds/snow-love2.jpg</to>
   </transition>
   <static>
 	<duration>300</duration>
-	<file>/usr/share/backgrounds/snow-love.jpg</file>
+	<file>/usr/share/backgrounds/snow-love2.jpg</file>
   </static>
   <transition>
 	<duration>3</duration>
-	<from>/usr/share/backgrounds/snow-love.jpg</from>
-	<to>/usr/share/backgrounds/spring-ploughing.jpg</to>
+	<from>/usr/share/backgrounds/snow-love2.jpg</from>
+	<to>/usr/share/backgrounds/spring-ploughing2.jpg</to>
   </transition>
   <static>
 	<duration>300</duration>
-	<file>/usr/share/backgrounds/spring-ploughing.jpg</file>
+	<file>/usr/share/backgrounds/spring-ploughing2.jpg</file>
   </static>
   <transition>
 	<duration>3</duration>
-	<from>/usr/share/backgrounds/spring-ploughing.jpg</from>
-	<to>/usr/share/backgrounds/stone-dragon.jpg</to>
+	<from>/usr/share/backgrounds/spring-ploughing2.jpg</from>
+	<to>/usr/share/backgrounds/stone-dragon2.jpg</to>
   </transition>
   <static>
 	<duration>300</duration>
-	<file>/usr/share/backgrounds/stone-dragon.jpg</file>
+	<file>/usr/share/backgrounds/stone-dragon2.jpg</file>
   </static>
   <transition>
 	<duration>3</duration>
-	<from>/usr/share/backgrounds/stone-dragon.jpg</from>
-	<to>/usr/share/backgrounds/sunflower.jpg</to>
+	<from>/usr/share/backgrounds/stone-dragon2.jpg</from>
+	<to>/usr/share/backgrounds/sunflower2.jpg</to>
   </transition>
   <static>
 	<duration>300</duration>
-	<file>/usr/share/backgrounds/sunflower.jpg</file>
+	<file>/usr/share/backgrounds/sunflower2.jpg</file>
   </static>
   <transition>
 	<duration>3</duration>
-	<from>/usr/share/backgrounds/sunflower.jpg</from>
+	<from>/usr/share/backgrounds/sunflower2.jpg</from>
 	<to>/usr/share/backgrounds/warty-final-ubuntukylin.jpg</to>
   </transition>
   <static>

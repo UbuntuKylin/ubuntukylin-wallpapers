@@ -710,7 +710,7 @@ msgid "Seasons Autumn"
 msgstr "秋"
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:8
-msgid "Beachi2"
+msgid "Beach2"
 msgstr "沙滩"
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:9
