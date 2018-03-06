@@ -1,3 +1,9 @@
+ubuntukylin-wallpapers (18.04.2) bionic; urgency=medium
+
+  * compress the img added 
+
+ -- Yang Xiongyi <yangxiongyi@kylinos.cn>  Tue, 06 Mar 2018 17:01:04 +0800
+
 ubuntukylin-wallpapers (18.04.1) bionic; urgency=medium
 
   * add 20 wallpapers and one default wallpaper 
