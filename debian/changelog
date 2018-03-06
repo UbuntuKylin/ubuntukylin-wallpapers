@@ -1,3 +1,17 @@
+ubuntukylin-wallpapers (18.04.1) bionic; urgency=medium
+
+  * add 20 wallpapers and one default wallpaper 
+  * edit the new configure files for bionic
+  * delete the old default Wallpaper
+
+ -- Yang Xiongyi <yangxiongyi@kylinos.cn>  Tue, 06 Mar 2018 15:51:04 +0800
+
+ubuntukylin-wallpapers (18.04.0) juniper; urgency=medium
+
+  * test for local debuild 
+
+ -- Yang Xiongyi <yangxiongyi@kylinos.cn>  Tue, 06 Mar 2018 15:01:04 +0800
+
 ubuntukylin-wallpapers (17.10.2) artful; urgency=medium
 
   * alter the same pics name.

@@ -758,5 +758,94 @@ msgid "Sunflower2"
 msgstr "向日葵"
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:20
+#msgid "Warty Final Ubuntukylin"
+#msgstr "默认"
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:1
+msgid "Love Lotus"
+msgstr "爱莲"
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:2
+msgid "Half the sky"
+msgstr "半边"
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:3
+msgid "A World of Ice and Snow"
+msgstr "冰天雪地"
+
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Grassy"
+msgstr "草蒙茸"
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Ocean"
+msgstr "大海"
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:6
+msgid "Nature"
+msgstr "大自然"
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Winter Fairy Tales"
+msgstr "冬天童话"
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Good Luck in the Year of Dog"
+msgstr "狗年大吉"
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Blue Sky and Sea"
+msgstr "海天一色"
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:10
+msgid "Whisper of the Flower"
+msgstr "花语"
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Blooming flower"
+msgstr "花灼烁"
+
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Easy3"
+msgstr "简单3"
+
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Jasmine"
+msgstr "茉莉花"
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:14
+msgid "Silence Ridges and Peaks around house"
+msgstr "默——峰峦绕舍茉莉花"
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:15
+msgid "Qi nian"
+msgstr "祈年"
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:16
+msgid "Water"
+msgstr "上善若水"
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:17
+msgid "Glittering water"
+msgstr "水光"
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:18
+msgid "Jellyfish"
+msgstr "水母"
+
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:19
+msgid "Crab cactus"
+msgstr "蟹爪兰"
+
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:20
+msgid "Pearls and Jewelry"
+msgstr "珍珠与宝石"
+
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:21
 msgid "Warty Final Ubuntukylin"
-msgstr "默认"
+msgstr "默认-游龙"
