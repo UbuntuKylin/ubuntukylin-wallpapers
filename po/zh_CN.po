@@ -757,7 +757,7 @@ msgstr "石龙"
 msgid "Sunflower2"
 msgstr "向日葵"
 
-#: ../artful-ubuntukylin-wallpapers.xml.in.h:20
+##: ../artful-ubuntukylin-wallpapers.xml.in.h:20
 #msgid "Warty Final Ubuntukylin"
 #msgstr "默认"
 
