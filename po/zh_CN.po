@@ -7,14 +7,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntukylin-wallpapers 13.10.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-08 10:45+0800\n"
-"PO-Revision-Date: 2016-03-29 18:14+0800\n"
+"POT-Creation-Date: 2018-03-08 17:04+0800\n"
+"PO-Revision-Date: 2018-03-08 16:35+0800\n"
 "Last-Translator: Aron Xu <happyaron@ubuntu.com>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
 
 #: ../ubuntukylin-wallpapers.xml.in.h:1
 msgid "Ubuntu Kylin"
@@ -605,7 +606,6 @@ msgid "Summer In the North"
 msgstr "北国之夏"
 
 #: ../yakkety-ubuntukylin-wallpapers.xml.in.h:18
-#, fuzzy
 msgid "warty final ubuntukylin"
 msgstr "默认-游龙"
 
@@ -692,12 +692,10 @@ msgid "Warty Final Ubuntukylin"
 msgstr "默认-游龙"
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:1
-#, fuzzy
 msgid "Chinese knot"
 msgstr "中国结"
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:2
-#, fuzzy
 msgid "Starry sky"
 msgstr "星空"
 
@@ -706,22 +704,18 @@ msgid "Fantast"
 msgstr "梦想家"
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:4
-#, fuzzy
 msgid "Purple city"
 msgstr "紫色之城"
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:5
-#, fuzzy
 msgid "Dazzle light"
 msgstr "炫光"
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:6
-#, fuzzy
 msgid "Blue city"
 msgstr "蓝色之城"
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:7
-#, fuzzy
 msgid "Seasons autumn"
 msgstr "秋"
 
@@ -774,7 +768,6 @@ msgid "Sunflower2"
 msgstr "向日葵"
 
 #: ../bionic-ubuntukylin-wallpapers.xml.in.h:1
-#, fuzzy
 msgid "Love Lotus"
 msgstr "爱莲"
 
@@ -787,7 +780,6 @@ msgid "A World of Ice and Snow"
 msgstr "冰天雪地"
 
 #: ../bionic-ubuntukylin-wallpapers.xml.in.h:4
-#, fuzzy
 msgid "Grassy"
 msgstr "草蒙茸"
 
@@ -808,7 +800,6 @@ msgid "Good Luck in the Year of Dog"
 msgstr "狗年大吉"
 
 #: ../bionic-ubuntukylin-wallpapers.xml.in.h:9
-#, fuzzy
 msgid "Blue Sky and Sea"
 msgstr "海天一色"
 
@@ -817,7 +808,6 @@ msgid "Whisper of the Flower"
 msgstr "花语"
 
 #: ../bionic-ubuntukylin-wallpapers.xml.in.h:11
-#, fuzzy
 msgid "Blooming flower"
 msgstr "花灼烁"
 
