@@ -1,3 +1,9 @@
+ubuntukylin-wallpapers (18.04.3) bionic; urgency=medium
+
+  * edit the files in the po dir. 
+
+ -- Yang Xiongyi <yangxiongyi@kylinos.cn>  Thu, 08 Mar 2018 14:01:04 +0800
+
 ubuntukylin-wallpapers (18.04.2) bionic; urgency=medium
 
   * compress the img added 

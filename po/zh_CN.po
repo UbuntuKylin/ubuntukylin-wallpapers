@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntukylin-wallpapers 13.10.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-29 17:41+0800\n"
+"POT-Creation-Date: 2018-03-08 10:45+0800\n"
 "PO-Revision-Date: 2016-03-29 18:14+0800\n"
 "Last-Translator: Aron Xu <happyaron@ubuntu.com>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
@@ -536,7 +536,6 @@ msgstr "塞北风情"
 msgid "Harvest Time"
 msgstr "丰收"
 
-
 #: ../yakkety-ubuntukylin-wallpapers.xml.in.h:1
 msgid "Blooming Sunflower"
 msgstr "花色"
@@ -604,6 +603,11 @@ msgstr "灵动春色"
 #: ../yakkety-ubuntukylin-wallpapers.xml.in.h:17
 msgid "Summer In the North"
 msgstr "北国之夏"
+
+#: ../yakkety-ubuntukylin-wallpapers.xml.in.h:18
+#, fuzzy
+msgid "warty final ubuntukylin"
+msgstr "默认-游龙"
 
 #: ../zesty-ubuntukylin-wallpapers.xml.in.h:1
 msgid "Beach"
@@ -681,12 +685,20 @@ msgstr "游艇"
 msgid "Youker Island"
 msgstr "优客岛"
 
+#: ../zesty-ubuntukylin-wallpapers.xml.in.h:20
+#: ../artful-ubuntukylin-wallpapers.xml.in.h:20
+#: ../bionic-ubuntukylin-wallpapers.xml.in.h:21
+msgid "Warty Final Ubuntukylin"
+msgstr "默认-游龙"
+
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:1
-msgid "Chinese Knot"
+#, fuzzy
+msgid "Chinese knot"
 msgstr "中国结"
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:2
-msgid "Starry Sky"
+#, fuzzy
+msgid "Starry sky"
 msgstr "星空"
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:3
@@ -694,19 +706,23 @@ msgid "Fantast"
 msgstr "梦想家"
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:4
-msgid "Purple City"
+#, fuzzy
+msgid "Purple city"
 msgstr "紫色之城"
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:5
-msgid "Dazzle Light"
+#, fuzzy
+msgid "Dazzle light"
 msgstr "炫光"
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:6
-msgid "Blue City"
+#, fuzzy
+msgid "Blue city"
 msgstr "蓝色之城"
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:7
-msgid "Seasons Autumn"
+#, fuzzy
+msgid "Seasons autumn"
 msgstr "秋"
 
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:8
@@ -757,11 +773,8 @@ msgstr "石龙"
 msgid "Sunflower2"
 msgstr "向日葵"
 
-##: ../artful-ubuntukylin-wallpapers.xml.in.h:20
-#msgid "Warty Final Ubuntukylin"
-#msgstr "默认"
-
 #: ../bionic-ubuntukylin-wallpapers.xml.in.h:1
+#, fuzzy
 msgid "Love Lotus"
 msgstr "爱莲"
 
@@ -773,8 +786,8 @@ msgstr "半边"
 msgid "A World of Ice and Snow"
 msgstr "冰天雪地"
 
-
 #: ../bionic-ubuntukylin-wallpapers.xml.in.h:4
+#, fuzzy
 msgid "Grassy"
 msgstr "草蒙茸"
 
@@ -795,6 +808,7 @@ msgid "Good Luck in the Year of Dog"
 msgstr "狗年大吉"
 
 #: ../bionic-ubuntukylin-wallpapers.xml.in.h:9
+#, fuzzy
 msgid "Blue Sky and Sea"
 msgstr "海天一色"
 
@@ -803,14 +817,13 @@ msgid "Whisper of the Flower"
 msgstr "花语"
 
 #: ../bionic-ubuntukylin-wallpapers.xml.in.h:11
+#, fuzzy
 msgid "Blooming flower"
 msgstr "花灼烁"
-
 
 #: ../bionic-ubuntukylin-wallpapers.xml.in.h:12
 msgid "Easy3"
 msgstr "简单3"
-
 
 #: ../bionic-ubuntukylin-wallpapers.xml.in.h:13
 msgid "Jasmine"
@@ -836,16 +849,10 @@ msgstr "水光"
 msgid "Jellyfish"
 msgstr "水母"
 
-
 #: ../bionic-ubuntukylin-wallpapers.xml.in.h:19
 msgid "Crab cactus"
 msgstr "蟹爪兰"
 
-
 #: ../bionic-ubuntukylin-wallpapers.xml.in.h:20
 msgid "Pearls and Jewelry"
 msgstr "珍珠与宝石"
-
-#: ../bionic-ubuntukylin-wallpapers.xml.in.h:21
-msgid "Warty Final Ubuntukylin"
-msgstr "默认-游龙"

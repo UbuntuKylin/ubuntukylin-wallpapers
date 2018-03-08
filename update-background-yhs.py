@@ -37,7 +37,7 @@ Y_PREFIX_XML_IN = """<?xml version="1.0"?>
 <wallpapers>
  <wallpaper deleted="false">
    <name>Ubuntu 17.10 Community Wallpapers</name>
-   <filename>/usr/share/backgrounds/ubuntukylin/artful.xml</filename>
+   <filename>/usr/share/backgrounds/ubuntukylin/bionic.xml</filename>
    <options>zoom</options>
  </wallpaper>
 """
@@ -57,7 +57,7 @@ Y_FOOTER = """</wallpapers>
 
 ##################################修改PO#########################################
 #####修改Y_PO中的artful
-Y_PO = """#: ../artful-ubuntukylin-wallpapers.xml.in.h:%(e)d
+Y_PO = """#: ../bionic-ubuntukylin-wallpapers.xml.in.h:%(e)d
 msgid "%(f)s"
 msgstr ""
 
@@ -65,9 +65,9 @@ msgstr ""
 #################################################################################
 
 PATH='/usr/share/backgrounds/'
-UNKNOWN_XML = open("artful.xml", 'w+')
-UNKNOWN_XML_IN = open("artful.xml.in", 'w+')
-UNKNOWN_POT = open("artful.pot", 'w+')
+UNKNOWN_XML = open("bionic.xml", 'w+')
+UNKNOWN_XML_IN = open("bionic.xml.in", 'w+')
+UNKNOWN_POT = open("bionic.pot", 'w+')
 
 def main():
     images = glob.glob('*.jpg')
