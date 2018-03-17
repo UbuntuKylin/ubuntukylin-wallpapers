@@ -5,14 +5,16 @@ Source: https://launchpad.net/ubuntukylin
 Files: *
 Copyright: 2013-2018 Ubuntu Kylin community contributors
 License: CC-BY-SA-3.0
- This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 
- Unported License. To view a copy of this license, visit 
- http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative 
+Comments:
+ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0
+ Unported License. To view a copy of this license, visit
+ http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative
  Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
 Files: warty-final-ubuntukylin.jpg
 Copyright: 2018 National University of Defense Technology(NUDT) & Kylin Ltd
 License: GPL-3+
+Comments:
  This program is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
  the Free Software Foundation; either version 3 of the License, or
@@ -26,9 +28,10 @@ Copyright: 2004, Nathaniel McCallum <npmccallum@gentoo.org>
            2006, Daniel Holbach <daniel.holbach@ubuntu.com>
            2013, Aron Xu <happyaron@ubuntu.com>
 License: CC-BY-SA-3.0
- This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 
- Unported License. To view a copy of this license, visit 
- http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative 
+Comments:
+ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0
+ Unported License. To view a copy of this license, visit
+ http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative
  Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
 License: GPL-3+
