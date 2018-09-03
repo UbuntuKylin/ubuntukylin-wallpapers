@@ -1,3 +1,9 @@
+ubuntukylin-wallpapers (18.10.1) cosmic; urgency=medium
+
+  * add some wallpapers for cosmic
+
+ -- Yang Xiongyi <yangxiongyi@kylinos.cn>  Mon, 03 Sep 2018 16:59:21 +0800
+
 ubuntukylin-wallpapers (18.04.3) bionic; urgency=medium
 
   * edit the files in the po dir. 
