@@ -6,7 +6,7 @@ Uploaders: Aron Xu <happyaron@ubuntu.com>
 Build-Depends: debhelper (>= 11),
                python (>= 2.6.6-3~),
 Build-Depends-Indep: python-distutils-extra
-Standards-Version: 4.1.3
+Standards-Version: 4.2.1
 Vcs-Bzr: https://bazaar.launchpad.net/~feng-kylin/ubuntukylin-wallpapers
 Vcs-Browser: https://bazaar.launchpad.net/~feng-kylin/ubuntukylin-wallpapers/files
 
@@ -14,10 +14,17 @@ Package: ubuntukylin-wallpapers
 Architecture: all
 Section: metapackages
 Depends: ${misc:Depends},
-         ubuntukylin-wallpapers-bionic,
+         ubuntukylin-wallpapers-cosmic
 Description: Ubuntu Kylin Wallpapers
  The default Ubuntu Kylin wallpaper. This is also a metapackage depending on
  the other default wallpapers for the current Ubuntu Kylin release.
+
+Package: ubuntukylin-wallpapers-cosmic
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu Kylin 18.10 Wallpapers
+ Outstanding wallpapers selected from Ubuntu Kylin 18.10 Wallpaper Contest.
+ These wallpapers are expected to show wonderful Chinese style.
 
 Package: ubuntukylin-wallpapers-bionic
 Architecture: all

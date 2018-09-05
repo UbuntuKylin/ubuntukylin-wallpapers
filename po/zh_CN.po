@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntukylin-wallpapers 13.10.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-08 17:04+0800\n"
-"PO-Revision-Date: 2018-03-08 16:35+0800\n"
+"POT-Creation-Date: 2018-09-03 16:10+0800\n"
+"PO-Revision-Date: 2018-09-03 16:24+0800\n"
 "Last-Translator: Aron Xu <happyaron@ubuntu.com>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -688,6 +688,7 @@ msgstr "优客岛"
 #: ../zesty-ubuntukylin-wallpapers.xml.in.h:20
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:20
 #: ../bionic-ubuntukylin-wallpapers.xml.in.h:21
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:23
 msgid "Warty Final Ubuntukylin"
 msgstr "默认-游龙"
 
@@ -846,3 +847,91 @@ msgstr "蟹爪兰"
 #: ../bionic-ubuntukylin-wallpapers.xml.in.h:20
 msgid "Pearls and Jewelry"
 msgstr "珍珠与宝石"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:1
+msgid "APP"
+msgstr "app"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:2
+msgid "A_Spot_in_Dalian_Development_Zone"
+msgstr "大连开发区一隅"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Island"
+msgstr "岛"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Winter_Quite"
+msgstr "冬之静谧"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Unique"
+msgstr "独特"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:6
+msgid "Love_Between_Bees_and_Flowers"
+msgstr "蜂花之恋"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Watch"
+msgstr "观望"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:8
+msgid "The_Yellow_River"
+msgstr "黄河"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Dusk"
+msgstr "黄昏"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:10
+msgid "The_deer_only_appears_in_the_deep_forest"
+msgstr "林深见鹿"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Journey"
+msgstr "旅程"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Tiny"
+msgstr "渺小"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Leaf_on_the_Window"
+msgstr "粘在玻璃上的树叶"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:14
+msgid "Intimacy"
+msgstr "亲昵"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:15
+msgid "The_Sea_in_the_Morning"
+msgstr "清晨，那片海"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:16
+msgid "On_the_Grassland"
+msgstr "青草原上"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:17
+msgid "Summer"
+msgstr "夏日"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:18
+msgid "Small_Flowers"
+msgstr "小花"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:19
+msgid "Sunny"
+msgstr "夏日"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:20
+msgid "Light_in_the_Night"
+msgstr "夜光"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:21
+msgid "Cole_Flowers"
+msgstr "油菜花"
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:22
+msgid "Freedom"
+msgstr "自由"
