@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # coding=utf-8
 
 import glob
@@ -74,7 +74,7 @@ def main():
     m = len(images)
 
     output = ''
-    output += PREAMBLE 
+    output += PREAMBLE
     y_output_xmlin = ''
     y_output_xmlin += Y_PREFIX_XML_IN
     y_output_po = ''

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import glob
 
@@ -35,7 +35,7 @@ def main():
     m = len(images)
 
     output = ''
-    output += PREAMBLE 
+    output += PREAMBLE
     for i in xrange(m):
         output += ENTRY % {'a': PATH + images[i], 'b': PATH + images[(i+1) % m]}
     output += FOOTER

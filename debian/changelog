@@ -1,6 +1,12 @@
+ubuntukylin-wallpapers (19.04.0) disco; urgency=medium
+
+  * Wallpapers for disco.
+
+ -- handsome_feng <jianfengli@ubuntukylin.com>  Tue, 19 Feb 2019 09:57:47 +0800
+
 ubuntukylin-wallpapers (18.10.1) cosmic; urgency=medium
 
-  * Add some wallpapers for cosmic.
+  * Add some wallpapers for cosmic. (LP: #1791416)
   * Update the default background.
 
  -- handsome_feng <jianfengli@ubuntukylin.com>  Sat, 29 Sep 2018 09:40:12 +0800

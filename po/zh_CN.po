@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntukylin-wallpapers 13.10.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-03 16:10+0800\n"
-"PO-Revision-Date: 2018-09-03 16:24+0800\n"
+"POT-Creation-Date: 2019-01-25 10:39+0800\n"
+"PO-Revision-Date: 2019-01-25 16:18+0800\n"
 "Last-Translator: Aron Xu <happyaron@ubuntu.com>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -689,6 +689,7 @@ msgstr "优客岛"
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:20
 #: ../bionic-ubuntukylin-wallpapers.xml.in.h:21
 #: ../cosmic-ubuntukylin-wallpapers.xml.in.h:23
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:16
 msgid "Warty Final Ubuntukylin"
 msgstr "默认-游龙"
 
@@ -935,3 +936,64 @@ msgstr "油菜花"
 #: ../cosmic-ubuntukylin-wallpapers.xml.in.h:22
 msgid "Freedom"
 msgstr "自由"
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:1
+msgid "Twilight in the north of Xinjiang"
+msgstr "北疆暮色"
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:2
+msgid "Morning dew"
+msgstr "晨露"
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Dalian Tianmen Mountain Scenic Area"
+msgstr "大连天门山景区"
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Sea and sky"
+msgstr "海天一色"
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Simple light"
+msgstr "简约光感"
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:6
+msgid "Holiday night"
+msgstr "节日之夜"
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Cool technology"
+msgstr "酷炫科技"
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Rest"
+msgstr "憩"
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Mountain stream"
+msgstr "山涧清流"
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:10
+msgid "Township road"
+msgstr "乡路"
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Star bright"
+msgstr "星光璀璨"
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Clear day after the snow"
+msgstr "雪后初晴"
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Rapeseed blossom"
+msgstr "油菜花开"
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:14
+#, fuzzy
+msgid "tulip"
+msgstr "郁金香"
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:15
+msgid "Chinese style"
+msgstr "中国风"
