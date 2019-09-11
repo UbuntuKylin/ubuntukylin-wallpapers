@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntukylin-wallpapers 13.10.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-25 10:39+0800\n"
-"PO-Revision-Date: 2019-01-25 16:18+0800\n"
+"POT-Creation-Date: 2019-09-11 10:44+0800\n"
+"PO-Revision-Date: 2019-09-11 11:13+0800\n"
 "Last-Translator: Aron Xu <happyaron@ubuntu.com>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
@@ -690,6 +690,7 @@ msgstr "优客岛"
 #: ../bionic-ubuntukylin-wallpapers.xml.in.h:21
 #: ../cosmic-ubuntukylin-wallpapers.xml.in.h:23
 #: ../disco-ubuntukylin-wallpapers.xml.in.h:16
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:23
 msgid "Warty Final Ubuntukylin"
 msgstr "默认-游龙"
 
@@ -910,6 +911,7 @@ msgid "The_Sea_in_the_Morning"
 msgstr "清晨，那片海"
 
 #: ../cosmic-ubuntukylin-wallpapers.xml.in.h:16
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:16
 msgid "On_the_Grassland"
 msgstr "青草原上"
 
@@ -918,6 +920,7 @@ msgid "Summer"
 msgstr "夏日"
 
 #: ../cosmic-ubuntukylin-wallpapers.xml.in.h:18
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:18
 msgid "Small_Flowers"
 msgstr "小花"
 
@@ -997,3 +1000,83 @@ msgstr "郁金香"
 #: ../disco-ubuntukylin-wallpapers.xml.in.h:15
 msgid "Chinese style"
 msgstr "中国风"
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:1
+msgid "Beach dawn"
+msgstr "海滨晨曦"
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:2
+msgid "Bohai Sea sunset"
+msgstr "渤海晚霞"
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Bright moon"
+msgstr "皓月当空"
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Cornice"
+msgstr "飞檐"
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Dawn in the valley.jpg"
+msgstr "山谷拂晓"
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:6
+msgid "Five thousand years-Blue and white porcelain"
+msgstr "上下五千年-青花瓷"
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Five thousand years-Great Wall Silent Night"
+msgstr "上下五千年-长城静夜"
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Futuristic"
+msgstr "未来式"
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Green cluster"
+msgstr "绿丛中"
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:10
+msgid "Green Divine Bridge"
+msgstr "绿掩神桥"
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Green moss"
+msgstr "苔绿"
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Microcosm"
+msgstr "微观世界"
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Millennium"
+msgstr "茫茫千年"
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:14
+msgid "Morning-Light"
+msgstr "晨-微光"
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:15
+msgid "Nelumbo nucifera"
+msgstr "碗莲"
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:17
+msgid "Night in Jinzhou Bay"
+msgstr "金州湾之夜"
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:19
+msgid "Sea and sky1910"
+msgstr "海天一色1910"
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:20
+msgid "The realm of the sky-Ermine"
+msgstr "天空之境-白鼬"
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:21
+msgid "Twelve Hours"
+msgstr "十二时辰"
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:22
+msgid "Wings of Light"
+msgstr "光之翼"

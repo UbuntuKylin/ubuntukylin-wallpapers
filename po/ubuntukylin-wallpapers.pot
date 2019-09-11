@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-19 11:49+0800\n"
+"POT-Creation-Date: 2019-09-11 10:44+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -690,6 +690,7 @@ msgstr ""
 #: ../bionic-ubuntukylin-wallpapers.xml.in.h:21
 #: ../cosmic-ubuntukylin-wallpapers.xml.in.h:23
 #: ../disco-ubuntukylin-wallpapers.xml.in.h:16
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:23
 msgid "Warty Final Ubuntukylin"
 msgstr ""
 
@@ -910,6 +911,7 @@ msgid "The_Sea_in_the_Morning"
 msgstr ""
 
 #: ../cosmic-ubuntukylin-wallpapers.xml.in.h:16
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:16
 msgid "On_the_Grassland"
 msgstr ""
 
@@ -918,6 +920,7 @@ msgid "Summer"
 msgstr ""
 
 #: ../cosmic-ubuntukylin-wallpapers.xml.in.h:18
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:18
 msgid "Small_Flowers"
 msgstr ""
 
@@ -995,4 +998,84 @@ msgstr ""
 
 #: ../disco-ubuntukylin-wallpapers.xml.in.h:15
 msgid "Chinese style"
+msgstr ""
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:1
+msgid "Beach dawn"
+msgstr ""
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:2
+msgid "Bohai Sea sunset"
+msgstr ""
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Bright moon"
+msgstr ""
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Cornice"
+msgstr ""
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Dawn in the valley.jpg"
+msgstr ""
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:6
+msgid "Five thousand years-Blue and white porcelain"
+msgstr ""
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Five thousand years-Great Wall Silent Night"
+msgstr ""
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Futuristic"
+msgstr ""
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Green cluster"
+msgstr ""
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:10
+msgid "Green Divine Bridge"
+msgstr ""
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Green moss"
+msgstr ""
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Microcosm"
+msgstr ""
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Millennium"
+msgstr ""
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:14
+msgid "Morning-Light"
+msgstr ""
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:15
+msgid "Nelumbo nucifera"
+msgstr ""
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:17
+msgid "Night in Jinzhou Bay"
+msgstr ""
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:19
+msgid "Sea and sky1910"
+msgstr ""
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:20
+msgid "The realm of the sky-Ermine"
+msgstr ""
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:21
+msgid "Twelve Hours"
+msgstr ""
+
+#: ../eoan-ubuntukylin-wallpapers.xml.in.h:22
+msgid "Wings of Light"
 msgstr ""

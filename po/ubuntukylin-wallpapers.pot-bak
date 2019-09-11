@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-08 17:08+0800\n"
+"POT-Creation-Date: 2019-02-19 11:49+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -688,6 +688,8 @@ msgstr ""
 #: ../zesty-ubuntukylin-wallpapers.xml.in.h:20
 #: ../artful-ubuntukylin-wallpapers.xml.in.h:20
 #: ../bionic-ubuntukylin-wallpapers.xml.in.h:21
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:23
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:16
 msgid "Warty Final Ubuntukylin"
 msgstr ""
 
@@ -845,4 +847,152 @@ msgstr ""
 
 #: ../bionic-ubuntukylin-wallpapers.xml.in.h:20
 msgid "Pearls and Jewelry"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:1
+msgid "APP"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:2
+msgid "A_Spot_in_Dalian_Development_Zone"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Island"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Winter_Quite"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Unique"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:6
+msgid "Love_Between_Bees_and_Flowers"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Watch"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:8
+msgid "The_Yellow_River"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Dusk"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:10
+msgid "The_deer_only_appears_in_the_deep_forest"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Journey"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Tiny"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Leaf_on_the_Window"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:14
+msgid "Intimacy"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:15
+msgid "The_Sea_in_the_Morning"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:16
+msgid "On_the_Grassland"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:17
+msgid "Summer"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:18
+msgid "Small_Flowers"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:19
+msgid "Sunny"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:20
+msgid "Light_in_the_Night"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:21
+msgid "Cole_Flowers"
+msgstr ""
+
+#: ../cosmic-ubuntukylin-wallpapers.xml.in.h:22
+msgid "Freedom"
+msgstr ""
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:1
+msgid "Twilight in the north of Xinjiang"
+msgstr ""
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:2
+msgid "Morning dew"
+msgstr ""
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:3
+msgid "Dalian Tianmen Mountain Scenic Area"
+msgstr ""
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:4
+msgid "Sea and sky"
+msgstr ""
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:5
+msgid "Simple light"
+msgstr ""
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:6
+msgid "Holiday night"
+msgstr ""
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:7
+msgid "Cool technology"
+msgstr ""
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:8
+msgid "Rest"
+msgstr ""
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:9
+msgid "Mountain stream"
+msgstr ""
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:10
+msgid "Township road"
+msgstr ""
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:11
+msgid "Star bright"
+msgstr ""
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:12
+msgid "Clear day after the snow"
+msgstr ""
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:13
+msgid "Rapeseed blossom"
+msgstr ""
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:14
+msgid "tulip"
+msgstr ""
+
+#: ../disco-ubuntukylin-wallpapers.xml.in.h:15
+msgid "Chinese style"
 msgstr ""
