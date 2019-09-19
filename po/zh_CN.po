@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ubuntukylin-wallpapers 13.10.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-11 10:44+0800\n"
+"POT-Creation-Date: 2019-09-19 09:38+0800\n"
 "PO-Revision-Date: 2019-09-11 11:13+0800\n"
 "Last-Translator: Aron Xu <happyaron@ubuntu.com>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
@@ -1070,8 +1070,8 @@ msgid "Sea and sky1910"
 msgstr "海天一色1910"
 
 #: ../eoan-ubuntukylin-wallpapers.xml.in.h:20
-msgid "The realm of the sky-Ermine"
-msgstr "天空之境-白鼬"
+msgid "1910"
+msgstr "1910"
 
 #: ../eoan-ubuntukylin-wallpapers.xml.in.h:21
 msgid "Twelve Hours"
@@ -1080,3 +1080,4 @@ msgstr "十二时辰"
 #: ../eoan-ubuntukylin-wallpapers.xml.in.h:22
 msgid "Wings of Light"
 msgstr "光之翼"
+
