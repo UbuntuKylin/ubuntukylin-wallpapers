@@ -16,10 +16,17 @@ Package: ubuntukylin-wallpapers
 Architecture: all
 Section: metapackages
 Depends: ${misc:Depends},
-         ubuntukylin-wallpapers-disco
+         ubuntukylin-wallpapers-focal
 Description: Ubuntu Kylin Wallpapers
  The default Ubuntu Kylin wallpaper. This is also a metapackage depending on
  the other default wallpapers for the current Ubuntu Kylin release.
+
+Package: ubuntukylin-wallpapers-focal
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu Kylin 20.04 Wallpapers
+ Outstanding wallpapers selected from Ubuntu Kylin 20.04 Wallpaper Contest.
+ These wallpapers are expected to show wonderful Chinese style.
 
 Package: ubuntukylin-wallpapers-eoan
 Architecture: all
