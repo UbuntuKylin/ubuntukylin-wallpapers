@@ -24,15 +24,15 @@
   <transition>
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/dominaate.jpg</from>
-    <to>/usr/share/backgrounds/fristgeneration.jpg</to>
+    <to>/usr/share/backgrounds/firstgeneration.jpg</to>
   </transition>
   <static>
     <duration>300</duration>
-    <file>/usr/share/backgrounds/fristgeneration.jpg</file>
+    <file>/usr/share/backgrounds/firstgeneration.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/fristgeneraiton.jpg</from>
+    <from>/usr/share/backgrounds/firstgeneraiton.jpg</from>
     <to>/usr/share/backgrounds/focal-ubuntukylin.png</to>
   </transition>
   <static>

@@ -4,19 +4,20 @@ Priority: optional
 Maintainer: Ubuntu Kylin Team <ubuntukylin-members@list.launchpad.net>
 Uploaders: Aron Xu <happyaron@ubuntu.com>,
            handsome_feng <jianfengli@ubuntukylin.com>
-Build-Depends: debhelper (>= 12),
+Build-Depends: debhelper-compat (= 12),
                dh-python,
-               python3 (>= 3),
+               python3,
 Build-Depends-Indep: python3-distutils-extra
-Standards-Version: 4.4.0
+Standards-Version: 4.5.0
+Rules-Requires-Root: no
 Vcs-Git: https://github.com/ubuntukylin/ubuntukylin-wallpapers.git
 Vcs-Browser: https://github.com/ubuntukylin/ubuntukylin-wallpapers
 
 Package: ubuntukylin-wallpapers
 Architecture: all
 Section: metapackages
-Depends: ${misc:Depends},
-         ubuntukylin-wallpapers-focal
+Depends: ubuntukylin-wallpapers-focal,
+         ${misc:Depends}
 Description: Ubuntu Kylin Wallpapers
  The default Ubuntu Kylin wallpaper. This is also a metapackage depending on
  the other default wallpapers for the current Ubuntu Kylin release.
