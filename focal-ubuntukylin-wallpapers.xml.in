@@ -16,7 +16,7 @@
  </wallpaper>
  <wallpaper>
      <_name>Default</_name>
-     <filename>/usr/share/backgrounds/Default.jpg</filename>
+     <filename>/usr/share/backgrounds/default.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
