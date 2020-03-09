@@ -23,7 +23,16 @@
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/dominaate.jpg</from>
+    <from>/usr/share/backgrounds/default.jpg</from>
+    <to>/usr/share/backgrounds/dominate.jpg</to>
+  </transition>
+  <static>
+    <duration>300</duration>
+    <file>/usr/share/backgrounds/dominate.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/dominate.jpg</from>
     <to>/usr/share/backgrounds/firstgeneration.jpg</to>
   </transition>
   <static>
@@ -69,14 +78,23 @@
   <transition>
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/sight.jpg</from>
-    <to>/usr/share/backgrounds/the-mouse.jpg</to>
+    <to>/usr/share/backgrounds/string.jpg</to>
+  </transition>
+  <static>
+        <duration>300</duration>
+        <file>/usr/share/backgrounds/string.jpg</file>
+  </static>
+  <transition>
+        <duration>5</duration>
+        <from>/usr/share/backgrounds/string.jpg</from>
+    	<to>/usr/share/backgrounds/the-mouse.jpg</to>
   </transition>
   <static>
 	<duration>300</duration>
 	<file>/usr/share/backgrounds/the-mouse.jpg</file>
   </static>
   <transition>
-	<duration>3</duration>
+	<duration>5</duration>
 	<from>/usr/share/backgrounds/the-mouse.jpg</from>
 	<to>/usr/share/backgrounds/vapor.jpg</to>
   </transition>
@@ -85,7 +103,7 @@
 	<file>/usr/share/backgrounds/vapor.jpg</file>
   </static>
   <transition>
-	<duration>3</duration>
+	<duration>5</duration>
 	<from>/usr/share/backgrounds/vapor.jpg</from>
 	<to>/usr/share/backgrounds/view.jpg</to>
   </transition>
@@ -94,7 +112,7 @@
 	<file>/usr/share/backgrounds/view.jpg</file>
   </static>
   <transition>
-	<duration>3</duration>
+	<duration>5</duration>
 	<from>/usr/share/backgrounds/view.jpg</from>
 	<to>/usr/share/backgrounds/HK.jpg</to>
 </transition>
@@ -103,8 +121,17 @@
         <file>/usr/share/backgrounds/HK.jpg</file>
   </static>
   <transition>
-        <duration>3</duration>
+        <duration>5</duration>
         <from>/usr/share/backgrounds/HK.jpg</from>
+        <to>/usr/share/backgrounds/warty-final-ubuntukylin.jpg</to>
+</transition>
+  <static>
+        <duration>300</duration>
+        <file>/usr/share/backgrounds/warty-final-ubuntukylin.jpg</file>
+  </static>
+  <transition>
+        <duration>5</duration>
+        <from>/usr/share/backgrounds/warty-final-ubuntukylin.jpg</from>
         <to>/usr/share/backgrounds/calla.png</to>
   </transition>
 </background>
