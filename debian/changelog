@@ -1,3 +1,10 @@
+ubuntukylin-wallpapers (20.04.1) focal; urgency=medium
+
+  * Update the default background.
+  * Fix the wrong picture name.
+
+ -- handsome_feng <jianfengli@ubuntukylin.com>  Mon, 09 Mar 2020 21:56:18 +0800
+
 ubuntukylin-wallpapers (20.04.0) focal; urgency=medium
 
   * Wallpapers for focal.
