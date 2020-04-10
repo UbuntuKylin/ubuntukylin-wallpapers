@@ -15,6 +15,14 @@
      <shade_type>solid</shade_type>
  </wallpaper>
  <wallpaper>
+     <_name>City</_name>
+     <filename>/usr/share/backgrounds/city.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>	 
+ <wallpaper>
      <_name>Default</_name>
      <filename>/usr/share/backgrounds/default.jpg</filename>
      <options>zoom</options>
@@ -23,8 +31,8 @@
      <shade_type>solid</shade_type>
  </wallpaper>
  <wallpaper>
-     <_name>Dominate</_name>
-     <filename>/usr/share/backgrounds/dominate.jpg</filename>
+     <_name>Desert</_name>
+     <filename>/usr/share/backgrounds/desert.png</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
@@ -38,6 +46,14 @@
      <scolor>#000000</scolor>
      <shade_type>solid</shade_type>
  </wallpaper>
+ <wallpaper>
+     <_name>Fluent-color</_name>
+     <filename>/usr/share/backgrounds/fluent-color.png</filename>
+     <options>zoom</options>
+     <pcolor>#000000</pcolor>
+     <scolor>#000000</scolor>
+     <shade_type>solid</shade_type>
+ </wallpaper>	 
  <wallpaper>
      <_name>Focal-ubuntukylin</_name>
      <filename>/usr/share/backgrounds/focal-ubuntukylin.png</filename>
@@ -63,13 +79,13 @@
      <shade_type>solid</shade_type>
  </wallpaper>
  <wallpaper>
-     <_name>Sight</_name>
-     <filename>/usr/share/backgrounds/sight.jpg</filename>
+     <_name>Rollpaper</_name>
+     <filename>/usr/share/backgrounds/rollpaper.png</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>
      <shade_type>solid</shade_type>
- </wallpaper>
+ </wallpaper>	 
  <wallpaper>
      <_name>String</_name>
      <filename>/usr/share/backgrounds/string.jpg</filename>
@@ -81,30 +97,6 @@
  <wallpaper>
      <_name>The-mouse</_name>
      <filename>/usr/share/backgrounds/the-mouse.jpg</filename>
-     <options>zoom</options>
-     <pcolor>#000000</pcolor>
-     <scolor>#000000</scolor>
-     <shade_type>solid</shade_type>
- </wallpaper>
- <wallpaper>
-     <_name>vapor</_name>
-     <filename>/usr/share/backgrounds/vapor.jpg</filename>
-     <options>zoom</options>
-     <pcolor>#000000</pcolor>
-     <scolor>#000000</scolor>
-     <shade_type>solid</shade_type>
- </wallpaper>
- <wallpaper>
-     <_name>View</_name>
-     <filename>/usr/share/backgrounds/view.jpg</filename>
-     <options>zoom</options>
-     <pcolor>#000000</pcolor>
-     <scolor>#000000</scolor>
-     <shade_type>solid</shade_type>
- </wallpaper>
-  <wallpaper>
-     <_name>HK</_name>
-     <filename>/usr/share/backgrounds/HK.jpg</filename>
      <options>zoom</options>
      <pcolor>#000000</pcolor>
      <scolor>#000000</scolor>

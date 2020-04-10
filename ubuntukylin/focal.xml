@@ -15,6 +15,15 @@
   <transition>
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/calla.png</from>
+    <to>/usr/share/backgrounds/city.png</to>
+  </transition>
+  <static>
+    <duration>300</duration>
+    <file>/usr/share/backgrounds/city.png</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/city.png</from>	    
     <to>/usr/share/backgrounds/default.jpg</to>
   </transition>
   <static>
@@ -24,15 +33,15 @@
   <transition>
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/default.jpg</from>
-    <to>/usr/share/backgrounds/dominate.jpg</to>
+    <to>/usr/share/backgrounds/desert.png</to>
   </transition>
   <static>
     <duration>300</duration>
-    <file>/usr/share/backgrounds/dominate.jpg</file>
+    <file>/usr/share/backgrounds/desert.png</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/dominate.jpg</from>
+    <from>/usr/share/backgrounds/desert.png</from>	    
     <to>/usr/share/backgrounds/firstgeneration.jpg</to>
   </transition>
   <static>
@@ -42,6 +51,15 @@
   <transition>
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/firstgeneraiton.jpg</from>
+    <to>/usr/share/backgrounds/fluent-color.png</to>
+  </transition>
+  <static>
+    <duration>300</duration>
+    <file>/usr/share/backgrounds/fluent-color.png</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/fluent-color.png</from>	    
     <to>/usr/share/backgrounds/focal-ubuntukylin.png</to>
   </transition>
   <static>
@@ -69,15 +87,15 @@
   <transition>
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/rhythm.jpg</from>
-    <to>/usr/share/backgrounds/sight.jpg</to>
+    <to>/usr/share/backgrounds/rollpaper.png</to>
   </transition>
   <static>
     <duration>300</duration>
-    <file>/usr/share/backgrounds/sight.jpg</file>
+    <file>/usr/share/backgrounds/rollpaper.png</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>/usr/share/backgrounds/sight.jpg</from>
+    <from>/usr/share/backgrounds/rollpaper.png</from>	    
     <to>/usr/share/backgrounds/string.jpg</to>
   </transition>
   <static>
@@ -96,33 +114,6 @@
   <transition>
 	<duration>5</duration>
 	<from>/usr/share/backgrounds/the-mouse.jpg</from>
-	<to>/usr/share/backgrounds/vapor.jpg</to>
-  </transition>
-  <static>
-	<duration>300</duration>
-	<file>/usr/share/backgrounds/vapor.jpg</file>
-  </static>
-  <transition>
-	<duration>5</duration>
-	<from>/usr/share/backgrounds/vapor.jpg</from>
-	<to>/usr/share/backgrounds/view.jpg</to>
-  </transition>
-  <static>
-	<duration>300</duration>
-	<file>/usr/share/backgrounds/view.jpg</file>
-  </static>
-  <transition>
-	<duration>5</duration>
-	<from>/usr/share/backgrounds/view.jpg</from>
-	<to>/usr/share/backgrounds/HK.jpg</to>
-</transition>
-  <static>
-        <duration>300</duration>
-        <file>/usr/share/backgrounds/HK.jpg</file>
-  </static>
-  <transition>
-        <duration>5</duration>
-        <from>/usr/share/backgrounds/HK.jpg</from>
         <to>/usr/share/backgrounds/warty-final-ubuntukylin.jpg</to>
 </transition>
   <static>
