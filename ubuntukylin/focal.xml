@@ -115,7 +115,7 @@
 	<duration>5</duration>
 	<from>/usr/share/backgrounds/the-mouse.jpg</from>
         <to>/usr/share/backgrounds/warty-final-ubuntukylin.jpg</to>
-</transition>
+  </transition>
   <static>
         <duration>300</duration>
         <file>/usr/share/backgrounds/warty-final-ubuntukylin.jpg</file>

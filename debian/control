@@ -16,11 +16,18 @@ Vcs-Browser: https://github.com/ubuntukylin/ubuntukylin-wallpapers
 Package: ubuntukylin-wallpapers
 Architecture: all
 Section: metapackages
-Depends: ubuntukylin-wallpapers-focal,
+Depends: ubuntukylin-wallpapers-groovy,
          ${misc:Depends}
 Description: Ubuntu Kylin Wallpapers
  The default Ubuntu Kylin wallpaper. This is also a metapackage depending on
  the other default wallpapers for the current Ubuntu Kylin release.
+
+Package: ubuntukylin-wallpapers-groovy
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ubuntu Kylin 20.10 Wallpapers
+ Outstanding wallpapers selected from Ubuntu Kylin 20.10 Wallpaper Contest.
+ These wallpapers are expected to show wonderful Chinese style.
 
 Package: ubuntukylin-wallpapers-focal
 Architecture: all
