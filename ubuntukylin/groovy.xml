@@ -123,6 +123,15 @@
   <transition>
     <duration>5.0</duration>
     <from>/usr/share/backgrounds/sky.jpg</from>
+    <to>/usr/share/backgrounds/snowy-mountains.jpg</to>
+  </transition>
+  <static>
+    <duration>300</duration>
+    <file>/usr/share/backgrounds/snowy-mountains.jpg</file>
+  </static>
+  <transition>
+    <duration>5.0</duration>
+    <from>/usr/share/backgrounds/snowy-mountains.jpg</from>
     <to>/usr/share/backgrounds/still-life.jpg</to>
   </transition>
   <static>
