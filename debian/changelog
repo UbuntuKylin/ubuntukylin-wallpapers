@@ -1,3 +1,9 @@
+ubuntukylin-wallpapers (20.10.1) groovy; urgency=medium
+
+  * Update the default wallpapers.
+
+ -- handsome_feng <jianfengli@ubuntukylin.com>  Wed, 30 Sep 2020 14:43:15 +0800
+
 ubuntukylin-wallpapers (20.10.0) groovy; urgency=medium
 
   * Update wallpapers for 20.10. (LP: #1897502)
