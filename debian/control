@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Ubuntu Kylin Team <ubuntukylin-members@list.launchpad.net>
 Uploaders: Aron Xu <happyaron@ubuntu.com>,
            handsome_feng <jianfengli@ubuntukylin.com>
-Build-Depends: debhelper-compat (= 12),
+Build-Depends: debhelper-compat (= 13),
                dh-python,
                python3,
 Build-Depends-Indep: python3-distutils-extra
