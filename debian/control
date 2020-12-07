@@ -6,7 +6,7 @@ Uploaders: Aron Xu <happyaron@ubuntu.com>,
            handsome_feng <jianfengli@ubuntukylin.com>
 Build-Depends: debhelper-compat (= 13),
                dh-python,
-               python3,
+               python3
 Build-Depends-Indep: python3-distutils-extra
 Standards-Version: 4.5.0
 Rules-Requires-Root: no
@@ -16,6 +16,7 @@ Vcs-Browser: https://github.com/ubuntukylin/ubuntukylin-wallpapers
 Package: ubuntukylin-wallpapers
 Architecture: all
 Section: metapackages
+Replaces: ukui-wallpapers
 Depends: ubuntukylin-wallpapers-groovy,
          ${misc:Depends}
 Description: Ubuntu Kylin Wallpapers
@@ -24,6 +25,7 @@ Description: Ubuntu Kylin Wallpapers
 
 Package: ubuntukylin-wallpapers-groovy
 Architecture: all
+Replaces: ukui-wallpapers
 Depends: ${misc:Depends}
 Description: Ubuntu Kylin 20.10 Wallpapers
  Outstanding wallpapers selected from Ubuntu Kylin 20.10 Wallpaper Contest.
@@ -31,6 +33,7 @@ Description: Ubuntu Kylin 20.10 Wallpapers
 
 Package: ubuntukylin-wallpapers-focal
 Architecture: all
+Replaces: ukui-wallpapers
 Depends: ${misc:Depends}
 Description: Ubuntu Kylin 20.04 Wallpapers
  Outstanding wallpapers selected from Ubuntu Kylin 20.04 Wallpaper Contest.
@@ -38,6 +41,7 @@ Description: Ubuntu Kylin 20.04 Wallpapers
 
 Package: ubuntukylin-wallpapers-eoan
 Architecture: all
+Replaces: ukui-wallpapers
 Depends: ${misc:Depends}
 Description: Ubuntu Kylin 19.10 Wallpapers
  Outstanding wallpapers selected from Ubuntu Kylin 19.10 Wallpaper Contest.
@@ -45,6 +49,7 @@ Description: Ubuntu Kylin 19.10 Wallpapers
 
 Package: ubuntukylin-wallpapers-disco
 Architecture: all
+Replaces: ukui-wallpapers
 Depends: ${misc:Depends}
 Description: Ubuntu Kylin 19.04 Wallpapers
  Outstanding wallpapers selected from Ubuntu Kylin 19.04 Wallpaper Contest.
@@ -52,6 +57,7 @@ Description: Ubuntu Kylin 19.04 Wallpapers
 
 Package: ubuntukylin-wallpapers-cosmic
 Architecture: all
+Replaces: ukui-wallpapers
 Depends: ${misc:Depends}
 Description: Ubuntu Kylin 18.10 Wallpapers
  Outstanding wallpapers selected from Ubuntu Kylin 18.10 Wallpaper Contest.
@@ -59,6 +65,7 @@ Description: Ubuntu Kylin 18.10 Wallpapers
 
 Package: ubuntukylin-wallpapers-bionic
 Architecture: all
+Replaces: ukui-wallpapers
 Depends: ${misc:Depends}
 Description: Ubuntu Kylin 18.04 Wallpapers
  Outstanding wallpapers selected from Ubuntu Kylin 18.04 Wallpaper Contest.
@@ -66,6 +73,7 @@ Description: Ubuntu Kylin 18.04 Wallpapers
 
 Package: ubuntukylin-wallpapers-artful
 Architecture: all
+Replaces: ukui-wallpapers
 Depends: ${misc:Depends}
 Description: Ubuntu Kylin 17.10 Wallpapers
  Outstanding wallpapers selected from Ubuntu Kylin 17.10 Wallpaper Contest.
@@ -73,6 +81,7 @@ Description: Ubuntu Kylin 17.10 Wallpapers
 
 Package: ubuntukylin-wallpapers-zesty
 Architecture: all
+Replaces: ukui-wallpapers
 Depends: ${misc:Depends}
 Description: Ubuntu Kylin 17.04 Wallpapers
  Outstanding wallpapers selected from Ubuntu Kylin 17.04 Wallpaper Contest.
@@ -80,6 +89,7 @@ Description: Ubuntu Kylin 17.04 Wallpapers
 
 Package: ubuntukylin-wallpapers-yakkety
 Architecture: all
+Replaces: ukui-wallpapers
 Depends: ${misc:Depends}
 Description: Ubuntu Kylin 16.10 Wallpapers
  Outstanding wallpapers selected from Ubuntu Kylin 16.10 Wallpaper Contest.
@@ -87,6 +97,7 @@ Description: Ubuntu Kylin 16.10 Wallpapers
 
 Package: ubuntukylin-wallpapers-xenial
 Architecture: all
+Replaces: ukui-wallpapers
 Depends: ${misc:Depends}
 Description: Ubuntu Kylin 16.04 Wallpapers
  Outstanding wallpapers selected from Ubuntu Kylin 16.04 Wallpaper Contest.
@@ -94,6 +105,7 @@ Description: Ubuntu Kylin 16.04 Wallpapers
 
 Package: ubuntukylin-wallpapers-wily
 Architecture: all
+Replaces: ukui-wallpapers
 Depends: ${misc:Depends}
 Description: Ubuntu Kylin 15.10 Wallpapers
  Outstanding wallpapers selected from Ubuntu Kylin 15.10 Wallpaper Contest.
@@ -101,6 +113,7 @@ Description: Ubuntu Kylin 15.10 Wallpapers
 
 Package: ubuntukylin-wallpapers-vivid
 Architecture: all
+Replaces: ukui-wallpapers
 Depends: ${misc:Depends}
 Description: Ubuntu Kylin 15.04 Wallpapers
  Outstanding wallpapers selected from Ubuntu Kylin 15.04 Wallpaper Contest.
@@ -108,6 +121,7 @@ Description: Ubuntu Kylin 15.04 Wallpapers
 
 Package: ubuntukylin-wallpapers-utopic
 Architecture: all
+Replaces: ukui-wallpapers
 Depends: ${misc:Depends}
 Description: Ubuntu Kylin 14.10 Wallpapers
  Outstanding wallpapers selected from Ubuntu Kylin 14.10 Wallpaper Contest.
@@ -115,6 +129,7 @@ Description: Ubuntu Kylin 14.10 Wallpapers
 
 Package: ubuntukylin-wallpapers-trusty
 Architecture: all
+Replaces: ukui-wallpapers
 Depends: ${misc:Depends}
 Description: Ubuntu Kylin 14.04 Wallpapers
  Outstanding wallpapers selected from Ubuntu Kylin 14.04 Wallpaper Contest.
@@ -122,6 +137,7 @@ Description: Ubuntu Kylin 14.04 Wallpapers
 
 Package: ubuntukylin-wallpapers-saucy
 Architecture: all
+Replaces: ukui-wallpapers
 Depends: ${misc:Depends}
 Description: Ubuntu Kylin 13.10 Wallpapers
  Outstanding wallpapers selected from Ubuntu Kylin 13.10 Wallpaper Contest.
